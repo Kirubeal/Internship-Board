@@ -1,0 +1,516 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body style="margin:0">
+<title>Visa-Open Internship Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap">
+<style>
+  :root{
+    --ground:#f4f6ff;
+    --surface:#ffffff;
+    --surface-2:#eef1fc;
+    --ink:#1e2240;
+    --ink-2:#4a5073;
+    --ink-3:#7a809f;
+    --line:#e3e7f5;
+    --line-2:#cfd5ec;
+
+    --mint:#0e9f78;
+    --mint-soft:#dcf5ec;
+    --mint-ink:#0a7458;
+    --sky:#2f6fe4;
+    --sky-soft:#e1ebfd;
+    --sun:#f5b400;
+    --sun-soft:#fff3cc;
+    --sun-ink:#8a5d00;
+    --coral:#ea6a47;
+    --coral-soft:#ffe7df;
+    --coral-ink:#b1452a;
+
+    --accent:var(--mint);
+    --shadow:0 1px 2px rgba(30,34,64,.05), 0 10px 24px -16px rgba(47,111,228,.35);
+    --radius:14px;
+    color-scheme:light;
+  }
+  /* Deliberately one bright light theme, whatever the viewer's dark-mode setting. */
+  html{background:var(--ground);color-scheme:light}
+
+  *{box-sizing:border-box}
+  body{
+    background:var(--ground);
+    color:var(--ink);
+    font-family:"Figtree", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    font-size:15px;
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1100px;margin:0 auto;padding-inline:20px;padding-block:40px 80px}
+  a{color:inherit}
+
+  /* ---------- masthead ---------- */
+  .mast{margin-bottom:22px}
+  .eyebrow{
+    display:inline-flex;align-items:center;gap:8px;
+    font-size:12.5px;font-weight:600;color:var(--mint-ink);
+    background:var(--mint-soft);padding:5px 12px;border-radius:100px;margin:0 0 16px
+  }
+  .eyebrow::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--mint)}
+  h1{
+    font-family:"Bricolage Grotesque", "Figtree", system-ui, sans-serif;
+    font-weight:800;font-size:clamp(32px,5.2vw,52px);line-height:1.04;
+    margin:0 0 14px;text-wrap:balance;letter-spacing:-.02em
+  }
+  h1 .hl{
+    background:linear-gradient(transparent 58%, var(--sun-soft) 58%, var(--sun-soft) 92%, transparent 92%);
+    padding-inline:.08em
+  }
+  .lede{margin:0;max-width:62ch;color:var(--ink-2);font-size:16.5px}
+
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin:26px 0 0}
+  .stat{
+    padding:14px 16px;border-radius:var(--radius);min-width:0;
+    background:var(--surface);box-shadow:var(--shadow);border:1px solid var(--line)
+  }
+  .stat dt{font-size:12.5px;font-weight:600;color:var(--ink-2);margin:0 0 6px;display:flex;align-items:center;gap:7px}
+  .stat dt::before{content:"";width:9px;height:9px;border-radius:3px;background:var(--dot,var(--mint))}
+  .stat dd{
+    margin:0;font-family:"Bricolage Grotesque", system-ui, sans-serif;font-weight:700;
+    font-size:30px;line-height:1.05;font-variant-numeric:tabular-nums;letter-spacing:-.01em
+  }
+  .stat dd small{
+    font-family:"Figtree", system-ui, sans-serif;font-size:13px;font-weight:500;
+    color:var(--ink-3);display:block;letter-spacing:0;margin-top:4px
+  }
+  .stat.s-mint{--dot:var(--mint)}
+  .stat.s-sky{--dot:var(--sky)}
+  .stat.s-coral{--dot:var(--coral)}
+  .stat.s-sun{--dot:var(--sun)}
+  #stat-next{font-size:22px}
+
+  /* ---------- controls ---------- */
+  .controls{
+    display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;
+    margin:28px 0 6px;padding:12px 14px;
+    background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)
+  }
+  .ctrl-label{font-size:12.5px;font-weight:700;color:var(--ink-3)}
+  .chips{display:flex;flex-wrap:wrap;gap:6px}
+  .chip{
+    font:inherit;font-size:13px;font-weight:600;line-height:1;
+    padding:8px 13px;border-radius:100px;cursor:pointer;
+    border:1px solid var(--line-2);background:var(--surface);color:var(--ink-2);
+    transition:background .15s, color .15s, border-color .15s
+  }
+  .chip:hover{border-color:var(--mint);color:var(--mint-ink)}
+  .chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--surface)}
+  input[type="search"]{
+    font:inherit;font-size:14px;padding:8px 14px;min-width:0;flex:1 1 190px;
+    background:var(--surface-2);color:var(--ink);
+    border:1px solid transparent;border-radius:100px
+  }
+  input[type="search"]:focus{border-color:var(--mint)}
+  input[type="search"]::placeholder{color:var(--ink-3)}
+  .spacer{flex:1 1 auto}
+  .toggle{display:inline-flex;align-items:center;gap:7px;font-size:13.5px;font-weight:500;color:var(--ink-2);cursor:pointer}
+  .toggle input{accent-color:var(--mint)}
+  :focus-visible{outline:2px solid var(--sky);outline-offset:2px}
+
+  /* ---------- groups ---------- */
+  .tier{margin-top:38px}
+  .tier-head{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:4px}
+  .tier-head h2{
+    font-family:"Bricolage Grotesque", system-ui, sans-serif;font-weight:700;
+    font-size:24px;margin:0;letter-spacing:-.01em
+  }
+  .tier-count{
+    font-size:12.5px;font-weight:600;color:var(--ink-2);background:var(--surface-2);
+    padding:2px 10px;border-radius:100px;font-variant-numeric:tabular-nums
+  }
+  .tier-note{margin:0 0 14px;color:var(--ink-2);font-size:14px;max-width:70ch}
+
+  .rows{display:flex;flex-direction:column;gap:10px}
+  .row{
+    display:grid;grid-template-columns:1fr 220px;
+    background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+    box-shadow:var(--shadow);overflow:hidden;
+    transition:transform .15s ease, box-shadow .15s ease
+  }
+  .row:hover{transform:translateY(-1px)}
+  .row.done{opacity:.55}
+  .row.done .role{text-decoration:line-through;text-decoration-color:var(--ink-3)}
+
+  .main{padding:16px 18px;min-width:0}
+  .title-line{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline}
+  .employer{font-size:13px;font-weight:700;color:var(--mint-ink);width:100%}
+  .role{
+    font-family:"Bricolage Grotesque", system-ui, sans-serif;
+    font-weight:700;font-size:18px;text-decoration:none;line-height:1.25;letter-spacing:-.005em
+  }
+  .role:hover{color:var(--sky);text-decoration:underline;text-underline-offset:3px}
+  .meta{margin:6px 0 0;color:var(--ink-2);font-size:13.5px;display:flex;flex-wrap:wrap;gap:4px 8px}
+  .meta span:not(:last-child)::after{content:"·";margin-left:8px;color:var(--ink-3)}
+  .why{margin:8px 0 0;font-size:14px;color:var(--ink-2);max-width:64ch}
+  .why b{color:var(--ink);font-weight:700}
+  .flag{
+    display:block;margin-top:10px;font-size:13.5px;max-width:64ch;
+    background:var(--sun-soft);color:var(--ink);
+    padding:8px 12px;border-radius:10px
+  }
+  .flag::before{content:"Heads-up: ";font-weight:700;color:var(--sun-ink)}
+
+  .side{
+    padding:16px 18px;background:var(--surface-2);
+    display:flex;flex-direction:column;gap:10px;align-items:flex-start
+  }
+  .due{
+    display:inline-flex;flex-direction:column;line-height:1.2;
+    padding:7px 12px;border-radius:12px;background:var(--mint-soft);color:var(--mint-ink)
+  }
+  .due .d{font-weight:700;font-size:15px;font-variant-numeric:tabular-nums}
+  .due .c{font-size:12px;font-weight:600;margin-top:2px;opacity:.9}
+  .due.urgent{background:var(--coral-soft);color:var(--coral-ink)}
+  .due.soon{background:var(--sun-soft);color:var(--sun-ink)}
+  .due.calm{background:var(--mint-soft);color:var(--mint-ink)}
+  .due.open{background:var(--sky-soft);color:var(--sky)}
+  .auth{display:flex;flex-wrap:wrap;gap:5px}
+  .tag{
+    font-family:"DM Mono", ui-monospace, monospace;font-size:10.5px;font-weight:500;letter-spacing:.03em;
+    padding:3px 8px;border-radius:100px;border:1px solid var(--line-2);color:var(--ink-2);white-space:nowrap;
+    background:var(--surface)
+  }
+  .tag.cpt{background:var(--mint);border-color:transparent;color:var(--surface)}
+  .tag.none{background:var(--sky-soft);border-color:transparent;color:var(--sky)}
+  .tag.spon{background:var(--sun-soft);border-color:transparent;color:var(--sun-ink)}
+  .tag.unstated{border-style:dashed;color:var(--ink-3)}
+  .tag.nospon{background:var(--coral-soft);border-color:transparent;color:var(--coral-ink)}
+  .src{font-size:12px;color:var(--ink-3)}
+  .applied{
+    display:inline-flex;align-items:center;gap:7px;font-size:13px;font-weight:600;color:var(--ink-2);
+    cursor:pointer;margin-top:auto
+  }
+  .applied input{accent-color:var(--mint);width:16px;height:16px}
+
+  .empty{padding:28px 16px;background:var(--surface);color:var(--ink-3);font-size:14.5px;text-align:center;margin:0;border-radius:var(--radius)}
+
+  /* ---------- opening soon & skipped ---------- */
+  .ledger{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px}
+  .ledger-row{
+    background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+    padding:14px 16px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:6px
+  }
+  .ledger-row .who{font-family:"Bricolage Grotesque", system-ui, sans-serif;font-weight:700;font-size:17px;line-height:1.25}
+  .ledger-row .who small{
+    display:block;font-family:"Figtree", system-ui, sans-serif;font-weight:600;font-size:13px;
+    color:var(--sky);margin-top:3px
+  }
+  .ledger-row .what{font-size:13.5px;color:var(--ink-2)}
+  .ledger-row .what a{color:var(--sky);font-weight:600}
+
+  details.skipped{margin-top:38px;background:var(--surface-2);border-radius:var(--radius);padding:4px 18px}
+  details.skipped summary{
+    cursor:pointer;list-style:none;padding:14px 0;display:flex;align-items:baseline;gap:12px;flex-wrap:wrap
+  }
+  details.skipped summary::-webkit-details-marker{display:none}
+  details.skipped summary h2{
+    font-family:"Bricolage Grotesque", system-ui, sans-serif;font-weight:700;font-size:20px;margin:0;color:var(--ink-2)
+  }
+  details.skipped summary .tier-count{background:var(--surface)}
+  details.skipped summary .hint{font-size:13px;font-weight:600;color:var(--sky)}
+  details.skipped[open] summary .hint .closed-text{display:none}
+  details.skipped:not([open]) summary .hint .open-text{display:none}
+  .skip-list{list-style:none;margin:0 0 16px;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:0 24px}
+  .skip-list li{font-size:13.5px;color:var(--ink-2);padding:9px 0;border-top:1px solid var(--line-2)}
+  .skip-list li b{color:var(--ink);font-weight:700}
+  .skip-list li span{display:block;font-size:12.5px;color:var(--ink-3)}
+
+  footer{margin-top:40px;color:var(--ink-3);font-size:13px;max-width:76ch}
+  footer p{margin:0 0 10px}
+  footer a{color:var(--sky)}
+
+  @media (max-width:720px){
+    .row{grid-template-columns:1fr}
+    .side{flex-direction:row;flex-wrap:wrap;align-items:center;gap:10px 14px}
+    .applied{margin-top:0}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}.row:hover{transform:none}}
+</style>
+
+<div class="wrap">
+  <header class="mast">
+    <p class="eyebrow">Summer 2027 · data last refreshed <span id="dataUpdated">—</span></p>
+    <h1>Your F-1-friendly <span class="hl">internship shortlist</span></h1>
+    <p class="lede">Health-system, pharma, biotech and life-sciences consulting roles that are open to students on CPT or OPT, pulled from Handshake, LinkedIn and employer career sites. The best fits for an MD with an MPH/MBA come first, then everything is sorted by deadline.</p>
+    <dl class="stats" id="stats">
+      <div class="stat s-mint"><dt>Roles on the board</dt><dd><span id="stat-total">—</span><small id="stat-total-sub">&nbsp;</small></dd></div>
+      <div class="stat s-sky"><dt>Open to CPT</dt><dd><span id="stat-cpt">—</span><small>your path until May 2028</small></dd></div>
+      <div class="stat s-coral"><dt>Closing this week</dt><dd><span id="stat-week">—</span><small id="stat-week-sub">&nbsp;</small></dd></div>
+      <div class="stat s-sun"><dt>Next deadline</dt><dd><span id="stat-next">—</span><small id="stat-next-sub">&nbsp;</small></dd></div>
+    </dl>
+  </header>
+
+  <div class="controls">
+    <span class="ctrl-label">Fit</span>
+    <div class="chips" id="tierChips">
+      <button class="chip" data-tier="all" aria-pressed="true" type="button" id="chip-all">All</button>
+      <button class="chip" data-tier="0" aria-pressed="false" type="button" id="chip-inbox">New — needs review</button>
+      <button class="chip" data-tier="1" aria-pressed="false" type="button">Best fits</button>
+      <button class="chip" data-tier="2" aria-pressed="false" type="button">Worth a look</button>
+      <button class="chip" data-tier="3" aria-pressed="false" type="button">Long shots</button>
+    </div>
+    <span class="ctrl-label">Work auth</span>
+    <div class="chips" id="authChips">
+      <button class="chip" data-auth="all" aria-pressed="true" type="button">Any</button>
+      <button class="chip" data-auth="cpt" aria-pressed="false" type="button">CPT</button>
+      <button class="chip" data-auth="none" aria-pressed="false" type="button">No auth needed</button>
+      <button class="chip" data-auth="spon" aria-pressed="false" type="button">Sponsorship</button>
+      <button class="chip" data-auth="unclear" aria-pressed="false" type="button">Ask first</button>
+    </div>
+    <input type="search" id="q" placeholder="Search employer or role…" aria-label="Search employer or role">
+    <span class="spacer"></span>
+    <label class="toggle" for="flat"><input type="checkbox" id="flat"> Sort all by deadline</label>
+    <label class="toggle" for="hideDone"><input type="checkbox" id="hideDone"> Hide applied</label>
+  </div>
+
+  <main id="board"></main>
+
+  <section class="tier">
+    <div class="tier-head"><h2>Opening soon</h2><span class="tier-count">3 programs</span></div>
+    <p class="tier-note">Strong fits whose Summer 2027 postings weren't live yet on 10 September. Dates come from last cycle or published guidance, so set a reminder.</p>
+    <div class="ledger">
+      <div class="ledger-row">
+        <div class="who">Mayo Clinic<small>Administrative Internship Program</small></div>
+        <div class="what">10–12 week projects with Mayo administrators for graduate students. Last cycle the application opened in early October and closed in early December. The program page doesn't mention work authorization. <a href="https://jobs.mayoclinic.org/AIP" target="_blank" rel="noopener">Program page</a></div>
+      </div>
+      <div class="ledger-row">
+        <div class="who">Regeneron<small>MBA Summer Internship</small></div>
+        <div class="what">Corporate strategy, business development, market access or new products at $70.40/hr last cycle, which took applications Oct 2 – Dec 2. A third-party guide says interns can work on CPT but Regeneron doesn't sponsor. Regeneron's own posting didn't say either way.</div>
+      </div>
+      <div class="ledger-row">
+        <div class="who">BCG and Bain<small>MBA summer consultant / associate</small></div>
+        <div class="what">Healthcare practices. Firm-wide deadlines are expected around November, but BCG has closed as early as October, so go by Carey's dates. The 2027 work-authorization wording wasn't visible yet. McKinsey is tracked separately.</div>
+      </div>
+    </div>
+  </section>
+
+  <details class="skipped" id="skipped">
+    <summary>
+      <h2>Skipped for now</h2>
+      <span class="tier-count">11 programs</span>
+      <span class="hint"><span class="closed-text">Show the list</span><span class="open-text">Hide the list</span></span>
+    </summary>
+    <p class="tier-note">These postings exclude CPT/OPT, rule out sponsorship, or aren't open to MBA students. They're kept here so they don't sneak back onto the shortlist.</p>
+    <ul class="skip-list">
+      <li><b>Inizio Ignite, Putnam</b> Summer Associate Consultant<span>MBA students ineligible (juniors graduating June 2028 only). Previously a best fit on this board.</span></li>
+      <li><b>CVS Health</b> 2027 internships<span>Excludes CPT, OPT and F-1 visa programs.</span></li>
+      <li><b>The Cigna Group</b> HSLDP Summer Associate<span>Requires authorization that won't need sponsorship now or later.</span></li>
+      <li><b>Johnson &amp; Johnson</b> MedTech MLDP MBA internship<span>Says CPT, OPT and STEM OPT students don't qualify.</span></li>
+      <li><b>Gilead Sciences</b> 2027 internships<span>Authorization can't depend on school or employer sponsorship.</span></li>
+      <li><b>Oliver Wyman</b> Health &amp; Life Sciences MBA Summer Associate<span>Unrestricted US work authorization required.</span></li>
+      <li><b>Trinity Life Sciences</b> Summer Associates<span>No sponsorship; bachelor's and master's students only.</span></li>
+      <li><b>Simon-Kucher</b> Healthcare &amp; Life Sciences intern<span>Treats CPT and OPT as restricted; undergrad and master's only.</span></li>
+      <li><b>ZS</b> Strategy Insights &amp; Planning Associate Intern<span>No sponsorship.</span></li>
+      <li><b>Bristol Myers Squibb</b> Finance &amp; Accounting Leadership Accelerator<span>Excludes student and temporary work authorization.</span></li>
+      <li><b>Vertex · Edwards Lifesciences</b> MBA summer programs<span>Both excluded candidates needing sponsorship last cycle.</span></li>
+    </ul>
+  </details>
+
+  <footer>
+    <p>Each role shows where it was found. On Handshake roles, the work-authorization tags are the employer's own Handshake settings. On LinkedIn and career-site roles, they come from the posting's wording, and “Not stated” means the posting is silent. Neither is a legal determination: an employer that says “no sponsorship” may still accept CPT, since CPT costs them nothing, so it's worth asking.</p>
+    <p>Of the 171 roles in your JHU Handshake collections, the 132 left out all carry “US work authorization required” with no OPT/CPT or sponsorship line. Estimated deadlines are marked and don't count toward the deadline stats. Deadlines captured 10 September 2026; check the posting before relying on one.</p>
+    <p>“New — needs review” entries are pulled automatically from your Handshake alert emails. They carry only what the alert itself states — no tier, visa terms, or “why it fits” yet — so treat them as raw leads to vet, not finished board entries.</p>
+  </footer>
+</div>
+
+<script>
+let TODAY = new Date();
+let JOBS = [];
+let TIERS = {};
+let AUTH_LABEL = {};
+let AUTH_CLASS = {};
+
+const store = {
+  get(){ try{ return JSON.parse(localStorage.getItem("hs27-applied")||"{}"); }catch(e){ return {}; } },
+  set(v){ try{ localStorage.setItem("hs27-applied", JSON.stringify(v)); }catch(e){} }
+};
+let applied = store.get();
+
+const state = {tier:"all", auth:"all", q:"", flat:false, hideDone:false};
+
+function days(job){
+  if(!job.due) return Infinity;
+  return Math.ceil((new Date(job.due) - TODAY) / 86400000);
+}
+function hardDeadline(job){ return job.due && !job.est; }
+function fmt(job){
+  if(!job.due) return "Rolling";
+  if(job.est) return job.dueNote;
+  return new Date(job.due).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});
+}
+function countdown(job){
+  if(!job.due) return "rolling review";
+  if(job.est) return "estimated";
+  const n = days(job);
+  if(n < 0) return "closed";
+  if(n === 0) return "today";
+  if(n === 1) return "1 day left";
+  return n + " days left";
+}
+function urgency(job){
+  if(!job.due) return "open";
+  const n = days(job);
+  if(job.est) return n <= 21 ? "soon" : "calm";
+  if(n <= 7) return "urgent";
+  if(n <= 21) return "soon";
+  return "calm";
+}
+function link(job){
+  return job.url || `https://app.joinhandshake.com/jobs/${job.id}`;
+}
+function sortKey(job){
+  return job.due ? new Date(job.due).getTime() : Number.MAX_SAFE_INTEGER;
+}
+
+function matches(job){
+  if(state.tier !== "all" && String(job.t) !== state.tier) return false;
+  if(state.auth === "unclear"){
+    if(!job.auth.includes("unstated") && !job.auth.includes("nospon")) return false;
+  } else if(state.auth !== "all" && !job.auth.includes(state.auth)) return false;
+  if(state.hideDone && applied[job.id]) return false;
+  if(state.q){
+    const hay = (job.e + " " + job.r + " " + job.loc).toLowerCase();
+    if(!hay.includes(state.q)) return false;
+  }
+  return true;
+}
+
+function rowHTML(job){
+  const u = urgency(job);
+  const done = applied[job.id] ? " done" : "";
+  const tags = job.auth.map(a => `<span class="tag ${AUTH_CLASS[a]}">${AUTH_LABEL[a]}</span>`).join("");
+  const meta = [job.pay, job.loc, job.term].filter(x => x && x !== "—").map(x => `<span>${x}</span>`).join("");
+  return `<article class="row${done}" data-id="${job.id}">
+    <div class="main">
+      <div class="title-line">
+        <span class="employer">${job.e}</span>
+        <a class="role" href="${link(job)}" target="_blank" rel="noopener">${job.r}</a>
+      </div>
+      <p class="meta">${meta}</p>
+      <p class="why">${job.why}</p>
+      ${job.flag ? `<span class="flag">${job.flag}</span>` : ""}
+    </div>
+    <div class="side">
+      <span class="due ${u}"><span class="d">${fmt(job)}</span><span class="c">${countdown(job)}</span></span>
+      <span class="auth">${tags}</span>
+      <span class="src">via ${job.src}</span>
+      <label class="applied"><input type="checkbox" id="ap-${job.id}" data-id="${job.id}" ${applied[job.id] ? "checked" : ""}> Applied</label>
+    </div>
+  </article>`;
+}
+
+function render(){
+  const board = document.getElementById("board");
+  const pool = JOBS.filter(matches).slice().sort((a,b) => sortKey(a) - sortKey(b));
+
+  if(!pool.length){
+    board.innerHTML = `<div class="tier"><div class="rows"><p class="empty">Nothing matches those filters. Try another chip or clear the search.</p></div></div>`;
+    return;
+  }
+
+  if(state.flat){
+    board.innerHTML = `<section class="tier">
+      <div class="tier-head"><h2>All roles by deadline</h2><span class="tier-count">${pool.length} shown</span></div>
+      <p class="tier-note">Fit grouping set aside — soonest deadline first, rolling roles last.</p>
+      <div class="rows">${pool.map(rowHTML).join("")}</div>
+    </section>`;
+  } else {
+    board.innerHTML = [0,1,2,3].map(t => {
+      const group = pool.filter(j => j.t === t);
+      if(!group.length) return "";
+      return `<section class="tier">
+        <div class="tier-head"><h2>${TIERS[t].name}</h2><span class="tier-count">${group.length} role${group.length===1?"":"s"}</span></div>
+        <p class="tier-note">${TIERS[t].note}</p>
+        <div class="rows">${group.map(rowHTML).join("")}</div>
+      </section>`;
+    }).join("");
+  }
+
+  board.querySelectorAll('.applied input').forEach(cb => {
+    cb.addEventListener("change", e => {
+      const id = e.target.dataset.id;
+      if(e.target.checked) applied[id] = 1; else delete applied[id];
+      store.set(applied);
+      render();
+    });
+  });
+}
+
+function renderStats(){
+  const hs = JOBS.filter(j => j.src === "Handshake").length;
+  document.getElementById("stat-total").textContent = JOBS.length;
+  document.getElementById("stat-total-sub").textContent = `${hs} via Handshake, ${JOBS.length - hs} via employer sites`;
+  document.getElementById("stat-cpt").textContent = JOBS.filter(j => j.auth.includes("cpt")).length;
+  document.getElementById("chip-all").textContent = "All " + JOBS.length;
+
+  const live = JOBS.filter(j => hardDeadline(j) && days(j) >= 0);
+  const week = live.filter(j => days(j) <= 7);
+  document.getElementById("stat-week").textContent = week.length;
+  document.getElementById("stat-week-sub").textContent =
+    week.filter(j => j.t === 1).length + " of them best fits";
+  const next = live.slice().sort((a,b) => sortKey(a) - sortKey(b))[0];
+  if(next){
+    document.getElementById("stat-next").textContent = fmt(next);
+    document.getElementById("stat-next-sub").textContent = next.e;
+  } else {
+    document.getElementById("stat-next").textContent = "—";
+    document.getElementById("stat-next-sub").textContent = "all deadlines passed";
+  }
+}
+
+function wireChips(containerId, key){
+  const box = document.getElementById(containerId);
+  box.addEventListener("click", e => {
+    const btn = e.target.closest(".chip");
+    if(!btn) return;
+    box.querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed","false"));
+    btn.setAttribute("aria-pressed","true");
+    state[key] = btn.dataset[key];
+    render();
+  });
+}
+wireChips("tierChips","tier");
+wireChips("authChips","auth");
+
+document.getElementById("q").addEventListener("input", e => {
+  state.q = e.target.value.trim().toLowerCase();
+  render();
+});
+document.getElementById("flat").addEventListener("change", e => { state.flat = e.target.checked; render(); });
+document.getElementById("hideDone").addEventListener("change", e => { state.hideDone = e.target.checked; render(); });
+
+fetch('data/jobs.json?_=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    JOBS = data.jobs;
+    TIERS = data.meta.tiers;
+    AUTH_LABEL = data.meta.authLabels;
+    AUTH_CLASS = data.meta.authClass;
+    TODAY = new Date();
+    const lu = document.getElementById('dataUpdated');
+    if (lu) lu.textContent = data.meta.lastUpdated;
+    renderStats();
+    render();
+  })
+  .catch(err => {
+    document.getElementById('board').innerHTML =
+      '<p style="padding:24px;color:#b1452a">Could not load data/jobs.json — ' + err + '</p>';
+  });
+</script>
+
+</body>
+</html>

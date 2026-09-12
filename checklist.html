@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Alumni Outreach Checklist — Summer 2027</title>
+<style>
+  :root{
+    --ink:#111111; --mid:#4a4a4a; --soft:#767676; --rule:#d8d5cf;
+    --bg:#faf9f7; --card:#ffffff; --hi:#f2efe9;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:ui-serif,Georgia,'Iowan Old Style',serif;line-height:1.5}
+  .wrap{max-width:1120px;margin:0 auto;padding:32px 20px 96px}
+  header{border-bottom:2px solid var(--ink);padding-bottom:18px;margin-bottom:22px}
+  h1{font-size:27px;margin:0 0 6px;letter-spacing:-.01em}
+  .sub{color:var(--mid);font-size:14px;margin:0}
+  .note{background:var(--hi);border:1px solid var(--rule);padding:13px 15px;
+    font-size:13.5px;color:var(--mid);margin:18px 0 22px}
+  .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;
+    position:sticky;top:0;background:var(--bg);padding:12px 0;z-index:5;
+    border-bottom:1px solid var(--rule);margin-bottom:20px}
+  button.f{font:inherit;font-size:13px;padding:5px 11px;border:1px solid var(--rule);
+    background:var(--card);color:var(--mid);cursor:pointer;border-radius:2px}
+  button.f:hover{border-color:var(--soft)}
+  button.f.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+  input.q{font:inherit;font-size:13px;padding:6px 10px;border:1px solid var(--rule);
+    background:var(--card);min-width:190px;border-radius:2px}
+  .sep{width:1px;height:22px;background:var(--rule);margin:0 4px}
+  .count{margin-left:auto;font-size:12.5px;color:var(--soft);
+    font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+  .tier{font-size:12px;letter-spacing:.13em;text-transform:uppercase;color:var(--soft);
+    margin:30px 0 12px;padding-bottom:5px;border-bottom:1px solid var(--rule)}
+  .card{background:var(--card);border:1px solid var(--rule);padding:18px 20px;margin-bottom:12px}
+  .card.done{opacity:.55}
+  .top{display:flex;gap:14px;align-items:flex-start;flex-wrap:wrap}
+  .num{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;
+    color:var(--soft);padding-top:4px;min-width:24px}
+  .who{flex:1;min-width:240px}
+  .nm{font-size:18px;font-weight:600;margin:0 0 3px;letter-spacing:-.01em}
+  .co{font-size:13.5px;color:var(--mid);margin:0 0 2px}
+  .ti{font-size:13px;color:var(--soft);margin:0}
+  .tags{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+  .tag{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:10.5px;
+    letter-spacing:.06em;text-transform:uppercase;padding:3px 7px;border:1px solid var(--rule);color:var(--mid)}
+  .tag.s{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .tag.m{background:var(--hi)}
+  .body{margin-top:14px;font-size:14px}
+  .lbl{font-size:11px;letter-spacing:.11em;text-transform:uppercase;color:var(--soft);
+    margin:15px 0 6px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+  .body p{margin:0;color:var(--mid)}
+  ul{margin:0;padding-left:19px;color:var(--mid)}
+  li{margin-bottom:5px}
+  .flag{border-left:2px solid var(--ink);padding-left:12px}
+  .flag li{color:var(--ink)}
+  .meta{display:flex;flex-wrap:wrap;gap:16px;margin-top:15px;padding-top:12px;
+    border-top:1px solid var(--rule);font-size:12.5px;color:var(--soft)}
+  .meta a{color:var(--ink)}
+  .steps{display:flex;flex-wrap:wrap;gap:14px;margin-top:13px;padding-top:12px;
+    border-top:1px solid var(--rule)}
+  .steps label{display:flex;gap:6px;align-items:center;font-size:12.5px;color:var(--mid);cursor:pointer}
+  .steps input{width:14px;height:14px;accent-color:#111;cursor:pointer}
+  .foot{margin-top:38px;padding-top:16px;border-top:1px solid var(--rule);
+    font-size:12.5px;color:var(--soft)}
+  .hidden{display:none}
+  @media print{.bar,.note{display:none}.card{page-break-inside:avoid;border-color:#bbb}
+    body{background:#fff}.card.done{opacity:1}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>Hopkins alumni outreach checklist</h1>
+  <p class="sub">Summer 2027 internship board &middot; 42 contacts &middot; data last refreshed <span id="dataUpdated">—</span></p>
+</header>
+
+<div class="note">
+  <strong>On sourcing.</strong> LinkedIn profiles can't be opened programmatically &mdash; they sit behind a
+  login wall, and opening them would also trigger the &ldquo;who viewed your profile&rdquo; notification the
+  original research deliberately avoided. Each profile below was rebuilt from public sources instead:
+  employer bio pages, faculty directories, press releases, speaker bios and the public preview text
+  search engines hold for LinkedIn. Every card states how well it's verified. Nine low-priority
+  contacts were not researched beyond the spreadsheet and say so. <strong>Match strength</strong> reflects
+  genuine overlap with your background, not seniority.
+</div>
+
+<div class="bar">
+  <button class="f on" data-t="tier" data-v="all">All tiers</button>
+  <button class="f" data-t="tier" data-v="Best fit">Best fit</button>
+  <button class="f" data-t="tier" data-v="Opening soon">Opening soon</button>
+  <button class="f" data-t="tier" data-v="Worth a look">Worth a look</button>
+  <button class="f" data-t="tier" data-v="Long shot">Long shot</button>
+  <span class="sep"></span>
+  <button class="f on" data-t="str" data-v="all">Any match</button>
+  <button class="f" data-t="str" data-v="Strong">Strong</button>
+  <button class="f" data-t="str" data-v="Moderate">Moderate</button>
+  <span class="sep"></span>
+  <button class="f" id="flagged">Needs checking</button>
+  <input class="q" id="q" type="search" placeholder="Search name, company, keyword">
+  <span class="count" id="count"></span>
+</div>
+
+<div id="list"></div>
+
+<div class="foot" id="foot"></div>
+</div>
+
+<script>
+let DATA = [];
+let STEPS = ["Verified", "Researched", "Drafted", "Sent", "Replied", "Follow-up"];
+const TIERS = ["Best fit","Opening soon","Worth a look","Long shot"];
+const SORD = {Strong:0, Moderate:1, Weak:2};
+let state = {};
+let filt = {tier:"all", str:"all", flagged:false, q:""};
+
+const KEY = "alumni-outreach-v1";
+async function load(){
+  try{ const raw = localStorage.getItem(KEY); if(raw) state = JSON.parse(raw); }
+  catch(e){ state = {}; }
+}
+async function save(){
+  try{ localStorage.setItem(KEY, JSON.stringify(state)); }catch(e){}
+}
+
+function esc(s){ return String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+
+function card(c){
+  const st = state[c.n] || {};
+  const done = STEPS.every(s => st[s]);
+  const sc = c.strength === "Strong" ? "s" : c.strength === "Moderate" ? "m" : "";
+  return `<div class="card${done ? " done" : ""}">
+    <div class="top">
+      <div class="num">${c.n}</div>
+      <div class="who">
+        <p class="nm">${esc(c.name)}</p>
+        <p class="co">${esc(c.co)} &middot; ${esc(c.deadline)}</p>
+        <p class="ti">${esc(c.title)}</p>
+      </div>
+      <div class="tags">
+        <span class="tag ${sc}">${esc(c.strength)} match</span>
+        <span class="tag">${esc(c.school)}</span>
+      </div>
+    </div>
+    <div class="body">
+      <div class="lbl">Profile</div><p>${esc(c.summary)}</p>
+      <div class="lbl">What you have in common</div>
+      <ul>${c.commons.map(k => "<li>" + esc(k) + "</li>").join("")}</ul>
+      <div class="lbl">How to approach</div><p>${esc(c.angle)}</p>
+      ${c.flags.length ? '<div class="lbl">Check before writing</div><ul class="flag">' +
+        c.flags.map(f => "<li>" + esc(f) + "</li>").join("") + "</ul>" : ""}
+      <div class="meta">
+        <span><a href="${esc(c.li)}" target="_blank" rel="noopener">LinkedIn profile</a></span>
+        <span>Email: ${esc(c.email)}</span>
+        <span>Sourcing: ${esc(c.verified)}</span>
+      </div>
+      <div class="steps">
+        ${STEPS.map(s => `<label><input type="checkbox" data-n="${c.n}" data-s="${s}"${st[s] ? " checked" : ""}>${s}</label>`).join("")}
+      </div>
+    </div>
+  </div>`;
+}
+
+function render(){
+  const q = filt.q.toLowerCase();
+  const rows = DATA.filter(c =>
+    (filt.tier === "all" || c.tier === filt.tier) &&
+    (filt.str === "all" || c.strength === filt.str) &&
+    (!filt.flagged || c.flags.length) &&
+    (!q || (c.name + c.co + c.title + c.summary + c.commons.join(" ") + c.angle).toLowerCase().includes(q))
+  );
+  let out = "";
+  TIERS.forEach(t => {
+    const g = rows.filter(c => c.tier === t).sort((a,b) => SORD[a.strength] - SORD[b.strength] || a.n - b.n);
+    if(!g.length) return;
+    out += `<div class="tier">${t} &mdash; ${g.length}</div>` + g.map(card).join("");
+  });
+  document.getElementById("list").innerHTML = out || '<p style="color:#767676">Nothing matches those filters.</p>';
+  const sent = DATA.filter(c => (state[c.n]||{})["Sent"]).length;
+  const rep = DATA.filter(c => (state[c.n]||{})["Replied"]).length;
+  document.getElementById("count").textContent = `${rows.length}/${DATA.length} shown · ${sent} sent · ${rep} replied`;
+  document.getElementById("foot").textContent =
+    `Progress saves in this artifact. Strong matches: ${DATA.filter(c=>c.strength==="Strong").length}. ` +
+    `Contacts with something to verify first: ${DATA.filter(c=>c.flags.length).length}.`;
+}
+
+document.addEventListener("change", async e => {
+  if(e.target.matches('input[type="checkbox"][data-n]')){
+    const n = e.target.dataset.n, s = e.target.dataset.s;
+    state[n] = state[n] || {};
+    state[n][s] = e.target.checked;
+    await save();
+    render();
+  }
+});
+
+document.addEventListener("click", e => {
+  const b = e.target.closest("button.f");
+  if(!b) return;
+  if(b.id === "flagged"){
+    filt.flagged = !filt.flagged;
+    b.classList.toggle("on", filt.flagged);
+  } else {
+    const t = b.dataset.t;
+    filt[t] = b.dataset.v;
+    document.querySelectorAll(`button.f[data-t="${t}"]`).forEach(x => x.classList.toggle("on", x === b));
+  }
+  render();
+});
+
+document.getElementById("q").addEventListener("input", e => { filt.q = e.target.value; render(); });
+
+fetch('data/contacts.json?_=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    DATA = data.contacts;
+    STEPS = data.meta.steps || STEPS;
+    const lu = document.getElementById('dataUpdated');
+    if (lu) lu.textContent = data.meta.lastUpdated;
+    load().then(render);
+  })
+  .catch(err => {
+    document.getElementById('list').innerHTML =
+      '<p style="padding:24px;color:#b1452a">Could not load data/contacts.json — ' + err + '</p>';
+  });
+</script>
+</body>
+</html>
