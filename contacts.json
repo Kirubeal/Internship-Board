@@ -1,0 +1,980 @@
+{
+  "meta": {
+    "steps": [
+      "Verified",
+      "Researched",
+      "Drafted",
+      "Sent",
+      "Replied",
+      "Follow-up"
+    ],
+    "lastUpdated": "2026-09-12"
+  },
+  "contacts": [
+    {
+      "n": 1,
+      "name": "Suzanne J. Baker, PhD",
+      "co": "St. Jude Children's Research Hospital",
+      "tier": "Best fit",
+      "deadline": "Apply by Sep 20",
+      "title": "Member of Faculty; Deputy Director, Comprehensive Cancer Center; Endowed Chair in Brain Tumor Research",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/suzanne-baker-4b7575155/",
+      "email": "suzanne.baker@stjude.org (published on St. Jude site)",
+      "strength": "Weak",
+      "verified": "Verified — St. Jude faculty page, Sontag Foundation, theorg.com",
+      "summary": "A bench scientist, not an administrator. PhD from Johns Hopkins University. Runs the Baker Lab on pediatric high-grade glioma, co-leads the Neurobiology and Brain Tumor Program, and directs the Brain Tumor Research Division. Her deputy-director title is over the research enterprise of the Comprehensive Cancer Center.",
+      "commons": [
+        "Johns Hopkins graduate degree",
+        "Pediatric disease focus — her research population overlaps with your maternal and child health clinic's",
+        "Principal-investigator experience: you led the childhood undernutrition study, she runs a lab"
+      ],
+      "angle": "Low-yield for the Healthcare Administration internship. She has no line into hospital operations. If you write at all, treat it as a courtesy note about pediatric research, not a referral ask.",
+      "flags": [
+        "The spreadsheet calls her the most senior Hopkins alum at St. Jude — accurate, but she sits on the research side, not the administrative side you are applying to."
+      ]
+    },
+    {
+      "n": 2,
+      "name": "Jamil Kasmani, MBBS, MPH, MBA, FACHE",
+      "co": "St. Jude Children's Research Hospital",
+      "tier": "Best fit",
+      "deadline": "Apply by Sep 20",
+      "title": "Senior Director, Operations (Academic & Biomedical)",
+      "school": "Bloomberg School of Public Health",
+      "li": "https://www.linkedin.com/in/drkasmani/",
+      "email": "first.last@stjude.org (~80%)",
+      "strength": "Strong",
+      "verified": "Verified — LinkedIn public preview, ZoomInfo, RocketReach",
+      "summary": "Describes himself as a physician executive with clinical and business leadership experience. Holds an MBBS with an MPH and an MBA, plus FACHE. Earned a Graduate Certificate in Health Finance and Management at the Bloomberg School (2016–17) and has a Carey Business School affiliation as well. Before St. Jude he was an Administrator / Administrative Director at Johns Hopkins Medicine and a graduate research assistant at JHU in organizational leadership and operations management. Based in Memphis.",
+      "commons": [
+        "The single closest career template on this list: a physician with a non-US medical degree who added an MPH and an MBA and moved into hospital operations — your exact trajectory",
+        "Bloomberg School, and specifically health finance and management coursework",
+        "Hospital operations leadership, which is what the St. Jude Healthcare Administration internship sits inside",
+        "He crossed from clinical practice into administration mid-career, as you are doing"
+      ],
+      "angle": "Your best contact at your nearest deadline. Lead with the physician-to-operations transition, not with the job. Ask how he decided between clinical and administrative tracks, and whether he would flag your application to the team that hosts the Healthcare Administration internship.",
+      "flags": []
+    },
+    {
+      "n": 3,
+      "name": "Tania Gonzalez, BSPH, MAS",
+      "co": "The Carter Center",
+      "tier": "Best fit",
+      "deadline": "Spring 2027",
+      "title": "Data Analyst, Trachoma Control Program",
+      "school": "Bloomberg School of Public Health",
+      "li": "https://www.linkedin.com/in/-tania-gonzalez-/",
+      "email": "first.last@cartercenter.org (~99%)",
+      "strength": "Moderate",
+      "verified": "Verified — Carter Center staff page, LinkedIn public preview",
+      "summary": "Not a surveillance generalist: she is the data analyst for the Trachoma Control Program. Builds disease monitoring dashboards, runs analyses for journal publications, and automates geospatial work. Bachelor of Public Health from Kent State, Master of Applied Science in spatial analysis from the Bloomberg School. Previously GIS at the City of Atlanta Office of City Planning, and before that a graduate assistant at the Carter Center itself.",
+      "commons": [
+        "Bloomberg School",
+        "Quantitative epidemiology and spatial analysis — the same territory as your Epi-Biostat concentration",
+        "Neglected tropical disease control in Africa; the Carter Center's trachoma work is heavily concentrated in Ethiopia",
+        "She converted a graduate assistantship at the Carter Center into a staff role, which is the pathway you are trying to open"
+      ],
+      "angle": "Ask her how the graduate-assistant-to-staff route worked and who owns the Spring 2027 intern intake. The Ethiopia trachoma connection gives you something specific to open with that nobody else can offer.",
+      "flags": [
+        "The spreadsheet lists her as 'Disease Surveillance / Public Health Informatics'. Her actual title is Data Analyst, Trachoma Control Program — use the real one."
+      ]
+    },
+    {
+      "n": 4,
+      "name": "Michael Diaz",
+      "co": "The Carter Center",
+      "tier": "Best fit",
+      "deadline": "Spring 2027",
+      "title": "Data Science Consultant, Guinea Worm Eradication Program",
+      "school": "Bloomberg School of Public Health",
+      "li": "https://www.linkedin.com/in/michael-diaz-91455290/",
+      "email": "first.last@cartercenter.org (~99%)",
+      "strength": "Strong",
+      "verified": "Verified — ZoomInfo profile history",
+      "summary": "A PhD candidate in Global Disease Epidemiology and Control at the Bloomberg School. Previously a Guinea Worm Eradication Program Technical Advisor in South Sudan for the Carter Center, a Senior Program Associate at the Task Force for Global Health, and an ORISE Fellow at the CDC. Earlier, a graduate assistant at Rollins working with WHO on a vaccine-preventable-disease portal.",
+      "commons": [
+        "Bloomberg School — and he is physically on campus, which makes a coffee far easier than a cold LinkedIn note",
+        "Field-level outbreak and eradication work in Africa; his South Sudan technical-advisor role is the closest thing on this list to your cholera rapid-response coordination",
+        "Both of you have run disease programs in low-resource settings rather than studying them from a distance",
+        "Epidemiology as the analytic backbone"
+      ],
+      "angle": "The most natural conversation on the whole list. Two people who have managed field teams during outbreaks, one of whom is now a Hopkins doctoral student. Ask about the Carter Center's intern pipeline and how field roles get filled.",
+      "flags": [
+        "He may now be primarily a Hopkins PhD student with a consulting attachment to the Carter Center rather than full-time staff. Frame the ask as advice, not as an internal referral."
+      ]
+    },
+    {
+      "n": 5,
+      "name": "Carol Bazell, MD, MPH",
+      "co": "Milliman",
+      "tier": "Best fit",
+      "deadline": "Rolling",
+      "title": "Principal, New York office (Health practice)",
+      "school": "Bloomberg School of Public Health",
+      "li": "https://www.linkedin.com/in/carol-bazell-073059174/",
+      "email": "first.last@milliman.com (~95%) · office line published: +1 646 473 3254",
+      "strength": "Strong",
+      "verified": "Verified — full Milliman consultant bio fetched",
+      "summary": "A physician who became a payment-policy expert. MD from Johns Hopkins School of Medicine, MPH from the Bloomberg School, BA Cornell. Practiced as a general pediatrician and preventive medicine specialist for 25 years, board-certified in public health and general preventive medicine. Then a senior executive at CMS in the Center for Medicare and Medicaid Innovation, designing and evaluating new payment and service-delivery models under the ACA, after directing fee-for-service payment policy for the Physician Fee Schedule and hospital outpatient systems. Before CMS, executive roles at HRSA running federal programs that prepared physicians to care for underserved populations. Joined Milliman in 2018. Publishes constantly on bundled payments, claims analytics, and disease burden.",
+      "commons": [
+        "Physician who moved into health economics and payment design — the move you are making",
+        "Two Hopkins degrees, one of them an MPH from Bloomberg",
+        "Payment and payer-side model design is the literal subject of your graduation project on redesigning Ethiopian health financing",
+        "Pediatrics and preventive medicine against your maternal and child health clinic",
+        "Her HRSA work was about getting physicians to serve underserved populations; your clinic exists because you chose to work near your hometown rather than take a random assignment"
+      ],
+      "angle": "The strongest intellectual match on the list for your financing thesis. Do not open with the internship. Open with bundled payments and value-based contracting in a system with almost no third-party payer, and ask what she thinks transfers.",
+      "flags": []
+    },
+    {
+      "n": 6,
+      "name": "Pamela M. Pelizzari, MPH",
+      "co": "Milliman",
+      "tier": "Best fit",
+      "deadline": "Rolling",
+      "title": "Principal and Senior Healthcare Consultant, New York office",
+      "school": "Bloomberg School of Public Health",
+      "li": "https://www.linkedin.com/in/pamela-m-pelizzari/",
+      "email": "first.last@milliman.com (~95%)",
+      "strength": "Strong",
+      "verified": "Verified — Milliman consultant bio, PFP Summit speaker bio",
+      "summary": "Joined Milliman in 2014. Before that, a Senior Technical Advisor and Program Lead at CMS, developing and implementing new payment methodologies nationwide. Specialises in episode-based payment definitions, benchmarking methodologies, gainsharing, claims adjudication and quality monitoring. Has worked in both clinical and payer settings. Frequently quoted in national press on hospital-at-home and Medicare policy. Undergraduate degree from Brown.",
+      "commons": [
+        "Episode-based and bundled payment design — payer-side financing architecture, which is your graduation project",
+        "MPH-trained, working at the intersection of clinical operations and payer economics without being a clinician",
+        "Government payment policy experience, relevant to your argument for government-overseen hybrid public-private models"
+      ],
+      "angle": "Pair her with Bazell. Bazell gives you the physician-to-payment-policy story, Pelizzari gives you the mechanics of how payment models are actually built and benchmarked.",
+      "flags": [
+        "Her public bios name Brown for undergrad and do not state a Hopkins degree. The Bloomberg affiliation comes from the LinkedIn alumni list — confirm it before opening with 'fellow Bloomberg alum'."
+      ]
+    },
+    {
+      "n": 7,
+      "name": "Aaron Dolgoff, CFA",
+      "co": "Charles River Associates",
+      "tier": "Best fit",
+      "deadline": "Rolling",
+      "title": "Vice President, Finance practice (Boston)",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/aaron-dolgoff-325636/",
+      "email": "adolgoff@crai.com — confirmed on CRA's own site",
+      "strength": "Weak",
+      "verified": "Verified — CRA people page, CRA press release, ResearchGate",
+      "summary": "A testifying and consulting expert in securities valuation, damages, compensation and financial markets, with 25+ years as an economic and management consultant. Promoted to VP in 2015 in CRA's Finance practice. Works on securities litigation, insider trading disputes, market manipulation, appraisal actions and international arbitration. No healthcare or life-sciences content in his practice.",
+      "commons": [
+        "Quantitative and financial analysis as a discipline",
+        "Nothing substantive in health, which is the point — the overlap with your background is thin"
+      ],
+      "angle": "Wrong practice. CRA's Life Sciences practice is the one that hires for the work you want. If you contact him at all, the only useful ask is an introduction to someone in Life Sciences.",
+      "flags": [
+        "The spreadsheet presents him as a best-fit CRA contact on seniority alone. Substantively he is a mismatch — prioritise Malkiewicz instead, or find a Life Sciences VP."
+      ]
+    },
+    {
+      "n": 8,
+      "name": "Michal A. Malkiewicz",
+      "co": "Charles River Associates",
+      "tier": "Best fit",
+      "deadline": "Rolling",
+      "title": "Vice President, Antitrust & Competition Economics; Adjunct Professor, USC Gould",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/malkiewm/",
+      "email": "first initial + last@crai.com (~93%)",
+      "strength": "Moderate",
+      "verified": "Verified — CRA people page, USC Gould faculty page, CRA press release",
+      "summary": "Applies economics, finance, statistics and survey research to complex disputes, intellectual property and investigations, and has worked extensively on health care and life sciences matters. Testifies before US federal courts, international arbitration panels and the US International Trade Commission. AB from the University of Chicago, MBA from Chicago Booth, MS from Johns Hopkins, plus a Certificate in Forecasting Practice. Adjunct faculty at USC Gould, based in Los Angeles.",
+      "commons": [
+        "Johns Hopkins graduate degree",
+        "An MBA layered onto a technical foundation",
+        "Substantive health care and life sciences analytical work — the part of CRA you actually want",
+        "Teaches alongside his consulting practice"
+      ],
+      "angle": "The better of the two CRA contacts by a wide margin. Ask how the Life Sciences and Antitrust practices staff summer associates and whether a health-economics background travels into the expert-witness side.",
+      "flags": []
+    },
+    {
+      "n": 9,
+      "name": "Priyanka Kothari, PhD",
+      "co": "Legend Biotech USA",
+      "tier": "Best fit",
+      "deadline": "Rolling",
+      "title": "Associate Director, Pipeline Project Management",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/priyanka-kothari/",
+      "email": "format may be last.first, not first.last — verify",
+      "strength": "Weak",
+      "verified": "Partially verified — theorg.com, RocketReach, LinkedIn preview",
+      "summary": "PhD in Cell Biology from Johns Hopkins School of Medicine (Douglas Robinson's lab, mechanobiome imaging), BA Biochemistry and MS Chemistry from Penn. Scientist through Scientist III and then Associate Director at NextCure. Joined Legend Biotech in August 2025 in pipeline project management. Roughly 14–15 years in biotech.",
+      "commons": [
+        "Johns Hopkins doctorate",
+        "Project and portfolio management discipline",
+        "Little else — she is on the scientific track, not the commercial or MBA track you are recruiting into"
+      ],
+      "angle": "Low priority. If you write, ask about how Legend's pipeline function interacts with the commercial leadership track, and about Kristie Valentin (Carey) who is actually in that program.",
+      "flags": [
+        "Her LinkedIn activity feed contains a post announcing a move to Eisai as Director, External Innovation. Confirm she is still at Legend before writing.",
+        "Contact-database email masking for her suggests a last.first pattern at legendbiotech.com, contradicting the spreadsheet's first.last assumption."
+      ]
+    },
+    {
+      "n": 10,
+      "name": "Nisha Shah",
+      "co": "Legend Biotech USA",
+      "tier": "Best fit",
+      "deadline": "Rolling",
+      "title": "Quality Control Compliance (listed); headline now points elsewhere",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/nisha-shah-59b0677a/",
+      "email": "n/a — likely stale",
+      "strength": "Weak",
+      "verified": "Verified — LinkedIn public preview",
+      "summary": "Her own LinkedIn headline reads 'Quality Control Microbiology Compliance Expert' and states she is currently a quality control microbiology supervisor at Minaris Regenerative Medicine. Education listed as The Johns Hopkins University. Roughly four years on a gene therapy programme through to market.",
+      "commons": [
+        "Johns Hopkins education",
+        "Quality systems and compliance — adjacent to your work raising equipment compliance with national standards from under 40 to about 70 percent at Ginnir, but that is a stretch"
+      ],
+      "angle": "Skip. She appears to have left Legend, and QC microbiology is not adjacent to an MBA commercial internship.",
+      "flags": [
+        "Almost certainly no longer at Legend Biotech — her own headline names Minaris Regenerative Medicine."
+      ]
+    },
+    {
+      "n": 11,
+      "name": "Mohamed Shabooti, MD",
+      "co": "Amgen",
+      "tier": "Best fit",
+      "deadline": "Closes Oct 23",
+      "title": "Executive Medical Director; Head of Immuno-Oncology, Global Patient Safety",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/mohamed-shabooti-3096157/",
+      "email": "first initial + last@amgen.com (~53%)",
+      "strength": "Moderate",
+      "verified": "Not verified — no public bio found; only LinkedIn headline and Amgen job descriptions for the equivalent role",
+      "summary": "No public biography exists beyond his LinkedIn headline. From Amgen's own postings, the function he leads owns safety strategy and benefit-risk management for a therapeutic portfolio, chairs safety governance, and manages safety teams across clinical development, medical affairs and regulatory.",
+      "commons": [
+        "Physician working inside a pharmaceutical company",
+        "Safety governance and risk management, which rhymes with your patient-safety and quality work at Ginnir",
+        "Hopkins affiliation, school unspecified"
+      ],
+      "angle": "Useful only if you can confirm who he is. Amgen has 116 Hopkins alumni and a weak email pattern — a LinkedIn message is the safer channel. Your live Amgen Operations application matters more than this contact.",
+      "flags": [
+        "Entirely unverified. Do not assume a degree or a school before checking.",
+        "Email pattern confidence at Amgen is only about 53 percent — do not guess-send."
+      ]
+    },
+    {
+      "n": 12,
+      "name": "Jonathan Respress, PhD, MBA",
+      "co": "Amgen",
+      "tier": "Best fit",
+      "deadline": "Closes Oct 23",
+      "title": "Executive Medical Director & US Medical Lead, Obesity and Related Conditions",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/drjlrespress/",
+      "email": "first initial + last@amgen.com (~53%)",
+      "strength": "Moderate",
+      "verified": "Verified — ZoomInfo career history, LinkedIn public preview",
+      "summary": "BS in Biomedical Engineering from Johns Hopkins, PhD in Cardiovascular Sciences from Baylor College of Medicine, and an MBA. At Baylor he was named most outstanding student in his department. Career through AstraZeneca in medical affairs leadership roles, then Ionis as Head Executive Director for cardiometabolism and global medical affairs, then GSK as Executive Director for the specialty care pipeline, now Amgen leading US medical strategy in obesity.",
+      "commons": [
+        "Johns Hopkins undergraduate degree",
+        "Scientist who added an MBA and climbed into commercial-adjacent leadership — the structure of your own plan",
+        "Medical affairs sits between clinical evidence and commercial strategy, which is the space your MPH and MBA combination targets"
+      ],
+      "angle": "Worth a note because you already have a live Amgen application. Ask how medical affairs and the commercial organisation actually divide work at Amgen, and whether the Operations Graduate Program interns touch either.",
+      "flags": []
+    },
+    {
+      "n": 13,
+      "name": "Hetty E. Carraway, MD, MBA, FACP",
+      "co": "Cleveland Clinic",
+      "tier": "Best fit",
+      "deadline": "Closes Oct 25",
+      "title": "Director, Leukemia Program; Vice Chair, Strategy & Enterprise Development, Taussig Cancer Institute; Professor of Medicine",
+      "school": "Carey Business School",
+      "li": "https://www.linkedin.com/in/hetty-carraway-284937/",
+      "email": "last + first initial@ccf.org (~75%)",
+      "strength": "Strong",
+      "verified": "Verified — Case CCC directory, Cleveland Clinic providers, Binaytara speaker bio, ASCO Post",
+      "summary": "MD from the University of Massachusetts Medical School. Internal medicine internship and residency plus a hematology-medical oncology fellowship at Johns Hopkins. Then an MBA from the Carey Business School in the Business of Health. Now directs the Leukemia Program, serves as Vice Chair for Strategy and Enterprise Development at the Taussig Cancer Institute where she oversees programmatic growth and innovation, directs the Hematology/Oncology Fellowship Program, and is a Professor of Medicine at the Cleveland Clinic Lerner College. Won the 2026 Binaytara Distinguished Faculty Award for teaching.",
+      "commons": [
+        "Carey Business School, Business of Health — the same school and the same concentration family as your MBA",
+        "A practising physician who added the MBA and converted it into a formal strategy and enterprise-development portfolio: precisely the outcome you are working toward",
+        "Trained at Johns Hopkins on the clinical side while you train there on the public health and business side",
+        "Heavy investment in teaching and mentorship — she is a fellowship program director, so mentoring requests are inside her normal working life"
+      ],
+      "angle": "The best Carey mirror on the list. Ask what the MBA actually changed about how she was seen inside a clinical organisation, and how the strategy vice-chair role came about. Then mention the administrative internship.",
+      "flags": []
+    },
+    {
+      "n": 14,
+      "name": "Stephen F. Hatem, MD",
+      "co": "Cleveland Clinic",
+      "tier": "Best fit",
+      "deadline": "Closes Oct 25",
+      "title": "Vice Chair for Education, Imaging Institute; Musculoskeletal and Emergency Radiology",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/stephen-hatem-b3075110/",
+      "email": "last + first initial@ccf.org (~75%)",
+      "strength": "Moderate",
+      "verified": "Verified — Cleveland Clinic provider page, Doximity",
+      "summary": "BS in Biomedical Engineering from Johns Hopkins (1981–85), MD from the University of Maryland, radiology residency at Hackensack, musculoskeletal imaging fellowship at Washington University. At Cleveland Clinic since 1999. Specialises in musculoskeletal, sports and emergency radiology, and holds the Vice Chair for Education role in the Imaging Institute. Won the Glazer Award for teaching excellence.",
+      "commons": [
+        "Johns Hopkins undergraduate degree",
+        "Physician",
+        "Emergency-side clinical practice — his emergency radiology against your emergency department coordination",
+        "Diagnostic imaging: your clinic's differentiator was standardised laboratory and imaging services in a setting that had none",
+        "Education and training leadership, which maps onto the staff development you did building a 17-person clinic team"
+      ],
+      "angle": "A genuine conversation exists here about what it takes to stand up reliable imaging in a place with no infrastructure. That is unusual enough to be memorable. He is not, however, a route into hospital administration.",
+      "flags": []
+    },
+    {
+      "n": 15,
+      "name": "Justin F. Gainor, MD",
+      "co": "Massachusetts General Hospital",
+      "tier": "Best fit",
+      "deadline": "~Nov 9",
+      "title": "Division Chief, Solid Tumor Medical Oncology, Mass General Brigham Cancer Institute; Director, Center for Thoracic Cancers",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/justin-gainor-98734b204/",
+      "email": "first initial + last@massgeneralbrigham.org (~64%) or first.last@ (~36%)",
+      "strength": "Weak",
+      "verified": "Verified — MGH physician page, AACR governance bio, Mass General Brigham newsroom",
+      "summary": "Johns Hopkins undergraduate, MD from Harvard Medical School, internal medicine residency at MGH, heme-onc fellowship in the MGH/Dana-Farber programme. Leads solid tumor medical oncology at Mass General Brigham and directs the Center for Thoracic Cancers and targeted immunotherapy. Runs major targeted-therapy and immunotherapy trials in lung cancer; cited over 50,000 times.",
+      "commons": [
+        "Johns Hopkins undergraduate degree",
+        "Physician",
+        "Clinical trial leadership, which touches your research-methodology and principal-investigator experience"
+      ],
+      "angle": "An academic clinical leader, not an administrator. Low yield for the administrative fellowship. Borgella is the better MGH contact for your purposes, and a division chief this senior is unlikely to answer a cold note.",
+      "flags": [
+        "Older Mass General addresses used @partners.org; the domain has changed. Use LinkedIn."
+      ]
+    },
+    {
+      "n": 16,
+      "name": "Marie Borgella, RN, DNP, FNAP",
+      "co": "Massachusetts General Hospital",
+      "tier": "Best fit",
+      "deadline": "~Nov 9",
+      "title": "Executive Director, Learning & Development, Norman Knight Nursing Center; Dorothy Ann Heathwood Endowed Chair in Nursing Education",
+      "school": "Johns Hopkins University (unconfirmed)",
+      "li": "https://www.linkedin.com/in/marieborgella/",
+      "email": "first initial + last@massgeneralbrigham.org (~64%)",
+      "strength": "Moderate",
+      "verified": "Verified — MGH nursing leadership page, Slavin Academy, FNAMA board page",
+      "summary": "BSN from the University of Massachusetts, MS in Business Management and Nursing Leadership from Regis College, DNP from the MGH Institute of Health Professions. Runs learning and development for MGH nursing, including the New Graduate Nurse Residency Program, preceptor development and fellowships. Massachusetts State Representative for the Organization of Nurse Leaders and a board member of the Foundation for Nursing Advancement. Won the 2026 ONL Mary B. Conceison Award for Excellence in Nursing Leadership. Co-authored a book chapter on health inequities and has advised on a Harvard Medical School health equity course. Community work with Rosie's Place and Madison Park High School.",
+      "commons": [
+        "Workforce development in a health system — you built and trained a clinic team from six to seventeen staff, which is the same problem at a different scale",
+        "Health equity and underserved communities as a stated professional commitment",
+        "Clinical background converted into an executive leadership role, with a business-oriented master's along the way",
+        "Education and mentorship as a core part of the job"
+      ],
+      "angle": "Substantively the most useful MGH contact for a hospital-administration internship, because workforce and training is an operations function. Ask how MGH structures graduate-level administrative placements.",
+      "flags": [
+        "No Johns Hopkins credential appears anywhere in her public biographies. The Hopkins tie comes only from the LinkedIn alumni list. Do not open with 'fellow Hopkins alum' until you can confirm it."
+      ]
+    },
+    {
+      "n": 17,
+      "name": "Hasan A. Zia, MD, MBA, FACS",
+      "co": "Johns Hopkins Health System × Carey",
+      "tier": "Best fit",
+      "deadline": "March 2027",
+      "title": "President & Chief Operating Officer, Sibley Memorial Hospital",
+      "school": "Carey Business School",
+      "li": "https://www.linkedin.com/in/hasanziamd/",
+      "email": "first initial + last@jhmi.edu (~45%), often with a digit",
+      "strength": "Strong",
+      "verified": "Verified — Hopkins Medicine leadership page and 2020 appointment release",
+      "summary": "MD from the University of Virginia, surgical residency at George Washington, fellowship in trauma surgery and surgical critical care at UVA. MBA in Health Care Management from the Carey Business School, 2017. Completed the Baldrige Executive Fellows programme in 2019. Inside Sibley he moved from director of critical care and emergency surgery, to patient safety officer and medical director for quality and safety, to chief medical information officer leading the Epic rollout at Sibley and Howard County, to vice president of medical affairs and chief medical officer, to interim president in 2018 and president and COO in 2020. Now runs strategy, clinical performance, quality, finance and operations for the hospital, the ambulatory surgery centre and a skilled nursing facility. Publicly proud of Sibley's workforce development programme.",
+      "commons": [
+        "Carey Business School MBA in health care management — your school, your degree",
+        "Physician-operator: he ran the emergency and critical care side before running the hospital, and you coordinated the emergency department and the rapid response team before running a clinic",
+        "Quality and patient safety leadership; your inventory overhaul raised compliance with national standards from under 40 to about 70 percent",
+        "Health information systems implementation",
+        "Workforce development as an explicit institutional priority, which is what you did building the clinic's staff"
+      ],
+      "angle": "This is the person whose career you are trying to reproduce, sitting inside the health system that runs your number-one ranked internship. Write the most carefully drafted note of the entire campaign to him. Ask about the Carey–JHHS internship by name and what makes a candidate credible to a hospital president.",
+      "flags": [
+        "jhmi.edu addresses frequently carry a trailing digit. Do not guess — use his public leadership page or the JHU directory."
+      ]
+    },
+    {
+      "n": 18,
+      "name": "Ryan Brown",
+      "co": "Johns Hopkins Health System × Carey",
+      "tier": "Best fit",
+      "deadline": "March 2027",
+      "title": "Vice President, Operations, Johns Hopkins Howard County Medical Center",
+      "school": "Carey Business School",
+      "li": "https://www.linkedin.com/in/ryandbrown-healthcare/",
+      "email": "first initial + last@jhmi.edu (~45%), often with a digit",
+      "strength": "Moderate",
+      "verified": "Verified — Hopkins Medicine Howard County leadership page, RocketReach",
+      "summary": "MS in Real Estate from the Carey Business School (2006–09), undergraduate at Cornell. Previously Senior Director of Business Development at Johns Hopkins Medicine. Now Vice President for Operations at Johns Hopkins Howard County Medical Center, sitting on the hospital's leadership roster alongside the president, CNO and CMO.",
+      "commons": [
+        "Carey Business School",
+        "Hospital operations, including capital and facilities work — you handled resource acquisition and physical build-out when you opened a second clinic site within a year",
+        "Business development, which is what opening a second site is"
+      ],
+      "angle": "A working-level operations leader inside your target system, more approachable than a hospital president. Good second note after Zia, and a sensible person to ask about how the Carey–JHHS internship projects are scoped.",
+      "flags": [
+        "This resolves the spreadsheet's open question about which hospital: Howard County. Confirm whether his current title is VP Operations or has become COO, since his LinkedIn headline was cut off."
+      ]
+    },
+    {
+      "n": 19,
+      "name": "Oodaye Shukla",
+      "co": "EVERSANA Management Consulting",
+      "tier": "Best fit",
+      "deadline": "Rolling",
+      "title": "Listed as Chief AI, Analytics & Data Officer — but not at EVERSANA",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/oodaye-shukla/",
+      "email": "do not use",
+      "strength": "Weak",
+      "verified": "Verified — Constellation Research bio, TheOfficialBoard, ContactOut, RocketReach",
+      "summary": "Began his career at the Johns Hopkins Applied Physics Laboratory building optical and digital computers, fibre sensors and neural network models for assessing cataract severity. Then Lucent and Siemens in telecom, then Lockheed Martin on satellite simulation. Later Chief Data and Analytics Officer at HVH Precision Analytics, which became part of EVERSANA, then Royalty Pharma. Now Chief AI, Analytics and Data Officer at Havas. Master's from Wharton.",
+      "commons": [
+        "A Johns Hopkins Applied Physics Laboratory start",
+        "Analytics leadership",
+        "Little else — and he is not at the company you are targeting"
+      ],
+      "angle": "Remove from the EVERSANA route. The spreadsheet's CHECK FIRST flag was correct.",
+      "flags": [
+        "Confirmed: multiple independent sources place him at Havas, not EVERSANA. Writing to him at an eversana.com address would land badly."
+      ]
+    },
+    {
+      "n": 20,
+      "name": "Patrick Beers",
+      "co": "EVERSANA INTOUCH",
+      "tier": "Best fit",
+      "deadline": "Rolling",
+      "title": "Senior Vice President, Market Access",
+      "school": "Johns Hopkins University (unconfirmed)",
+      "li": "https://www.linkedin.com/in/patrick-beers-1432b13b/",
+      "email": "first.last@eversana.com (~94%)",
+      "strength": "Strong",
+      "verified": "Verified — EVERSANA thought-leader page, EVERSANA INTOUCH blog, PharmaLive",
+      "summary": "Describes his own path as: started in healthcare policy, shifted into consulting, then HCP marketing, then launched Johnson & Johnson's managed care group, then helped build market access agencies. Left for an executive director role leading market access at VMLY&R Health and returned to EVERSANA as SVP. Has led more than ten product launches. Works across payers, PBMs, hospital systems, ACOs, specialty pharmacies and employer groups. Writes that in healthcare, what gets paid for gets done and what does not get paid for often does not get done.",
+      "commons": [
+        "He started in health policy and moved into commercial strategy; you are starting in clinical practice and public health and moving the same direction",
+        "Market access is payer economics under a commercial name, which is the same machinery as your Ethiopian health financing project",
+        "Both of you frame access and affordability as the binding constraint on whether care actually reaches people",
+        "Launch and go-to-market execution, which is what opening and scaling two clinic sites was in a different market"
+      ],
+      "angle": "His one-line thesis about what gets paid for getting done is effectively your dissertation argument in commercial language. Quote it back to him and connect it to a system where there is almost no payer to negotiate with.",
+      "flags": [
+        "His Hopkins tie is not visible in any public bio. Verify via the JHU alumni directory before claiming it."
+      ]
+    },
+    {
+      "n": 21,
+      "name": "Peter Keohane",
+      "co": "McKesson",
+      "tier": "Worth a look",
+      "deadline": "Rolling",
+      "title": "Vice President, Privacy",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/peter-keohane-47945a9/",
+      "email": "first.last@mckesson.com (~72%)",
+      "strength": "Weak",
+      "verified": "Not independently researched — spreadsheet data only",
+      "summary": "Listed as Vice President, Privacy at McKesson via the Hopkins alumni list. No further public profile was pulled, because a privacy and compliance function sits a long way from the strategy and operations roles you are recruiting into.",
+      "commons": [
+        "Hopkins affiliation, school unspecified",
+        "Data governance touches health information systems, but that is the extent of it"
+      ],
+      "angle": "Deprioritise. If McKesson matters to you, the spreadsheet already names better routes: Nina Cloven (Bloomberg, Manager of Market Strategy) and Eric Choi (Bloomberg and Carey, Corporate Strategy).",
+      "flags": [
+        "Not verified beyond the alumni list."
+      ]
+    },
+    {
+      "n": 22,
+      "name": "Jamie Herslow",
+      "co": "McKesson",
+      "tier": "Worth a look",
+      "deadline": "Rolling",
+      "title": "Senior Director, Workforce Strategy & Analytics",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/jamie-herslow-90b5591/",
+      "email": "first.last@mckesson.com (~72%)",
+      "strength": "Weak",
+      "verified": "Not independently researched — spreadsheet data only",
+      "summary": "Listed as Senior Director for Workforce Strategy and Analytics at McKesson. No further public profile was pulled.",
+      "commons": [
+        "Workforce planning and analytics — you scaled a team from six to seventeen and managed staffing against a P&L",
+        "Hopkins affiliation, school unspecified"
+      ],
+      "angle": "Only worth a note if you want to argue that clinic staffing under resource constraints is a workforce-analytics problem. Otherwise go to Cloven or Choi, who sit in strategy.",
+      "flags": [
+        "Not verified beyond the alumni list."
+      ]
+    },
+    {
+      "n": 23,
+      "name": "Michael Paas",
+      "co": "AbbVie",
+      "tier": "Worth a look",
+      "deadline": "Rolling",
+      "title": "Vice President, Head of Value & Access",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/michaelpaas/",
+      "email": "first.last@abbvie.com (~90%)",
+      "strength": "Moderate",
+      "verified": "Not independently researched — title previously checked against RocketReach and SignalHire listings",
+      "summary": "Heads value and access at AbbVie, meaning pricing, reimbursement and payer strategy for the portfolio. No detailed public biography was pulled in this pass.",
+      "commons": [
+        "Value and access is the commercial expression of health economics, which is your stated academic interest",
+        "Hopkins affiliation, school unspecified"
+      ],
+      "angle": "A credible market-access conversation, similar in shape to Patrick Beers but on the manufacturer side rather than the agency side. Verify his background before writing so the note is specific.",
+      "flags": [
+        "Not independently verified in this pass."
+      ]
+    },
+    {
+      "n": 24,
+      "name": "Kojo Osei-Bonsu, MD, MPH, MBA",
+      "co": "AbbVie",
+      "tier": "Worth a look",
+      "deadline": "Rolling",
+      "title": "Medical Director, Oncology Clinical Development (LinkedIn); listed elsewhere as Executive Medical Director",
+      "school": "Bloomberg School of Public Health",
+      "li": "https://www.linkedin.com/in/kojo-osei-bonsu-md-mph-mba-70196526/",
+      "email": "first.last@abbvie.com (~90%)",
+      "strength": "Strong",
+      "verified": "Verified — LinkedIn public preview, ZoomInfo career history, ResearchGate",
+      "summary": "His own headline reads: Medical Director at AbbVie, ex-BCG, Sommer Scholar, Babson MBA. MD, MPH from the Bloomberg School where he was a Sommer Scholar, MBA from Babson's Olin school. Management consulting at BCG, then AbbVie, rising through program management in portfolio, associate medical director, medical affairs oncology, and now oncology clinical development. Publications affiliated with Johns Hopkins Medicine and the Bloomberg School.",
+      "commons": [
+        "The closest full-path analog on this list: physician, then a Bloomberg MPH, then an MBA, then management consulting, then pharma — the exact sequence you have mapped out",
+        "Sommer Scholar, the Bloomberg School's flagship award, which gives you a concrete and flattering thing to ask about",
+        "Management consulting as the bridge between clinical training and industry, which is your McKinsey and BCG thesis",
+        "Oncology commercial and clinical development, relevant to several targets on your board"
+      ],
+      "angle": "If you send only five messages, this is one of them. Ask how he decided between staying in consulting and moving in-house, and what BCG's healthcare practice looked for in a physician candidate. That single answer informs your BCG, Bain and McKinsey applications at once.",
+      "flags": [
+        "His current LinkedIn title reads Medical Director, not Executive Medical Director. Use the title he uses."
+      ]
+    },
+    {
+      "n": 25,
+      "name": "Richard Haupt",
+      "co": "Merck",
+      "tier": "Worth a look",
+      "deadline": "Rolling",
+      "title": "Vice President",
+      "school": "Bloomberg School of Public Health",
+      "li": "https://www.linkedin.com/in/richard-haupt-046b4059/",
+      "email": "first.last@merck.com (~66%)",
+      "strength": "Moderate",
+      "verified": "Not independently researched — spreadsheet identified him as the most relevant VP for the Global Market Access role",
+      "summary": "A Bloomberg School alum holding a vice president role at Merck, flagged as the most relevant senior contact for the Global Market Access posting. No detailed public biography was pulled in this pass.",
+      "commons": [
+        "Bloomberg School",
+        "Market access and global health economics, the commercial side of your financing interest"
+      ],
+      "angle": "Worth verifying properly before you write, because a Bloomberg VP at Merck in market access would be a strong match. Check his actual portfolio first.",
+      "flags": [
+        "Not independently verified. Merck's email pattern is only about 66 percent reliable — use LinkedIn."
+      ]
+    },
+    {
+      "n": 26,
+      "name": "Denise Powell",
+      "co": "Merck",
+      "tier": "Worth a look",
+      "deadline": "Rolling",
+      "title": "Vice President, External Manufacturing Operations",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/denise-powell-52b90b5/",
+      "email": "first.last@merck.com (~66%)",
+      "strength": "Weak",
+      "verified": "Not independently researched — spreadsheet data only",
+      "summary": "Vice President for External Manufacturing Operations at Merck. No further public profile was pulled.",
+      "commons": [
+        "Supply chain and external manufacturing — you handled procurement and resource acquisition for a two-site clinic, though at an incomparable scale",
+        "Hopkins affiliation, school unspecified"
+      ],
+      "angle": "Low priority unless you decide to target pharma operations specifically, in which case the supply-continuity angle is real.",
+      "flags": [
+        "Not verified. Merck has 213 Hopkins alumni and only about half were scanned when the sheet was built."
+      ]
+    },
+    {
+      "n": 27,
+      "name": "Zachary Hecht",
+      "co": "TikTok Inc.",
+      "tier": "Worth a look",
+      "deadline": "Closes Dec 3",
+      "title": "Global Head of Policy, Trust & Safety",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/zachary-hecht/",
+      "email": "first.last@tiktok.com (~90%)",
+      "strength": "Weak",
+      "verified": "Previously verified via Australian Jewish News, July 2026",
+      "summary": "The most senior Hopkins alum identified at TikTok and New York-based like the internship. Works in trust and safety policy, not in TikTok Shop. His LinkedIn displays him as 'Zachary H.'",
+      "commons": [
+        "Policy work as a discipline — you have studied environmental health policy in both Ethiopian and US contexts",
+        "Hopkins affiliation, school unspecified"
+      ],
+      "angle": "The spreadsheet's own advice is right and worth repeating: ask him for an introduction to the Shop operations team rather than asking about the Category Manager role itself, which he has nothing to do with.",
+      "flags": [
+        "Wrong function for the posting. Do not open by referencing the internship."
+      ]
+    },
+    {
+      "n": 28,
+      "name": "Rohan Gupta, MD, MBA",
+      "co": "TikTok Inc.",
+      "tier": "Worth a look",
+      "deadline": "Closes Dec 3",
+      "title": "Business Development, Tech Operations & Strategic Leadership (ex-AWS)",
+      "school": "Bloomberg School of Public Health",
+      "li": "https://www.linkedin.com/in/docrohan/",
+      "email": "first.last@tiktok.com (~90%)",
+      "strength": "Strong",
+      "verified": "Partially verified — LinkedIn public preview confirms Johns Hopkins education, Seattle base and heavy AWS activity",
+      "summary": "A physician with an MBA who left clinical work for technology business development. Education listed as The Johns Hopkins University, based in Seattle, with an activity history dominated by AWS Marketplace and cloud go-to-market content. LinkedIn's employer filter places him at TikTok but his headline does not name a team.",
+      "commons": [
+        "Physician with an MBA who moved out of clinical practice into business roles — the same identity question you are working through",
+        "Bloomberg School",
+        "Business development and operations, which is where your clinic P&L and site-expansion experience actually lands in a corporate vocabulary",
+        "He is a second-degree connection with John McGready and Ge Bai as mutuals, both Hopkins faculty — the only warm-introduction path visible anywhere on this list"
+      ],
+      "angle": "Treat him as a networking node rather than a TikTok lead. A request routed through a shared faculty connection will outperform forty cold notes. Ask McGready or Bai first.",
+      "flags": [
+        "Confirm he is actually at TikTok before writing — his public footprint is overwhelmingly AWS and Seattle."
+      ]
+    },
+    {
+      "n": 29,
+      "name": "Charles Kahn, MD",
+      "co": "UPMC",
+      "tier": "Long shot",
+      "deadline": "Nursing students only",
+      "title": "Chair of Psychiatry, UPMC McKeesport Hospital",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/charles-kahn-m-d-03379420/",
+      "email": "first initial + last@upmc.com (~33%) or first.last@ (~24%)",
+      "strength": "Weak",
+      "verified": "Not independently researched — spreadsheet data only",
+      "summary": "Chair of Psychiatry at a UPMC community hospital. No further public profile was pulled, because the UPMC programme on the board is restricted to nursing students.",
+      "commons": [
+        "Physician and clinical department leadership",
+        "Hopkins affiliation, school unspecified"
+      ],
+      "angle": "Skip. The programme does not accept you, and the email patterns at UPMC are the weakest on the board at roughly a one-in-three hit rate.",
+      "flags": [
+        "Programme is nursing-students-only. Not verified."
+      ]
+    },
+    {
+      "n": 30,
+      "name": "Houssam Abdul Al",
+      "co": "UPMC",
+      "tier": "Long shot",
+      "deadline": "Nursing students only",
+      "title": "Senior Medical Director, UPMC Your Care",
+      "school": "Bloomberg School of Public Health",
+      "li": "https://www.linkedin.com/in/houssam-abdul-al-99bbbba5/",
+      "email": "first initial + last@upmc.com (~33%)",
+      "strength": "Moderate",
+      "verified": "Not independently researched — spreadsheet data only",
+      "summary": "Senior Medical Director for UPMC Your Care, which sits on the health plan side of UPMC's integrated payer-provider model. Bloomberg School alum. No further public profile was pulled.",
+      "commons": [
+        "Bloomberg School",
+        "Physician working on the payer side of an integrated system — UPMC is the textbook example of a provider that owns its own insurer, which is structurally close to the hybrid model you argue for in Ethiopia"
+      ],
+      "angle": "The internship does not fit, but the substance does. If you want a conversation about provider-owned payers as a self-sustaining model, he is the right person on this list for it. Keep him as an informational contact, not an application contact.",
+      "flags": [
+        "Programme does not accept MBA students. Not verified."
+      ]
+    },
+    {
+      "n": 31,
+      "name": "Malika K.",
+      "co": "ESURGI",
+      "tier": "Long shot",
+      "deadline": "Unpaid",
+      "title": "Project Manager",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/malika-k-biotech/",
+      "email": "not published",
+      "strength": "Weak",
+      "verified": "Not independently researched — spreadsheet data only",
+      "summary": "Project manager at a small medical-device company. Her LinkedIn shows a shortened last name, which makes verification difficult. Only three Hopkins alumni appear at ESURGI at all.",
+      "commons": [
+        "Project management",
+        "Hopkins affiliation, school unspecified"
+      ],
+      "angle": "Skip. Unpaid role, tiny company, unverifiable contact.",
+      "flags": [
+        "Shortened surname on LinkedIn; no published email; not verified."
+      ]
+    },
+    {
+      "n": 32,
+      "name": "Alexandra Tombleson",
+      "co": "ESURGI",
+      "tier": "Long shot",
+      "deadline": "Unpaid",
+      "title": "R&D Engineer (headline now says EternusBio)",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/alexandra-tombleson/",
+      "email": "not published",
+      "strength": "Weak",
+      "verified": "Not independently researched — spreadsheet data only",
+      "summary": "R&D engineer, though her own headline now names EternusBio rather than ESURGI.",
+      "commons": [
+        "Hopkins affiliation, school unspecified",
+        "Nothing substantive"
+      ],
+      "angle": "Skip. Likely departed, and an unpaid engineering-side role is not your target.",
+      "flags": [
+        "Probably no longer at ESURGI."
+      ]
+    },
+    {
+      "n": 33,
+      "name": "Dana Blackwood",
+      "co": "Turner Construction Company",
+      "tier": "Long shot",
+      "deadline": "Rolling",
+      "title": "Vice President & General Manager",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/dana-blackwood-51739b76/",
+      "email": "first initial + last@tcco.com (~88%)",
+      "strength": "Weak",
+      "verified": "Not independently researched — spreadsheet data only",
+      "summary": "Vice president and general manager at a large construction firm. No further public profile was pulled.",
+      "commons": [
+        "Hopkins affiliation, school unspecified",
+        "Capital project delivery, at a stretch — you built out a second clinic site — but the sector is unrelated to your goals"
+      ],
+      "angle": "Skip unless you decide healthcare facilities construction is a genuine interest. It is not on your target list.",
+      "flags": [
+        "Not verified. Sector mismatch."
+      ]
+    },
+    {
+      "n": 34,
+      "name": "Michael Fenzel",
+      "co": "Turner Construction Company",
+      "tier": "Long shot",
+      "deadline": "Rolling",
+      "title": "Managing Director, Turner Defense",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/mikefenzel/",
+      "email": "first initial + last@tcco.com (~88%)",
+      "strength": "Weak",
+      "verified": "Not independently researched — spreadsheet data only",
+      "summary": "Managing director of Turner's defence business. No further public profile was pulled.",
+      "commons": [
+        "Hopkins affiliation, school unspecified",
+        "Nothing substantive"
+      ],
+      "angle": "Skip. Defence construction has no bearing on a health-systems career.",
+      "flags": [
+        "Not verified. Sector mismatch."
+      ]
+    },
+    {
+      "n": 35,
+      "name": "Roshanak (Roshy) Didehban, FACHE",
+      "co": "Mayo Clinic",
+      "tier": "Opening soon",
+      "deadline": "Oct–Dec",
+      "title": "Chief Administrative Officer, Mayo Clinic in Arizona",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/roshanakdidehban/",
+      "email": "last.first@mayo.edu (~66%); some sources say first.last",
+      "strength": "Strong",
+      "verified": "Verified — Mayo Clinic News Network, Mayo Board of Trustees bio, Becker's speaker page",
+      "summary": "Joined Mayo Clinic as an administrative fellow in 2002 and worked up through operations administrator and associate administrator roles in Arizona and Rochester. Became chair of Practice Administration for Mayo Clinic, providing strategic and operational direction for clinical functions, then Chief Administrative Officer for Mayo Clinic in Arizona in September 2022, partnering with the Arizona CEO. Sits on Mayo's Board of Trustees, Board of Governors and Executive Operations Team. Holds the rank of assistant professor of Health Care Administration and is a fellow of the American College of Healthcare Executives. BS in Community Health from Illinois at Urbana-Champaign, master's degree from Johns Hopkins. Currently overseeing a major capital expansion in Arizona.",
+      "commons": [
+        "Johns Hopkins graduate degree",
+        "She entered Mayo through exactly the administrative training pathway you are applying to, and rose to run a campus — the clearest proof that the route works",
+        "Health system operations and practice administration",
+        "Capital expansion and physical growth, which is what you did opening a second clinic site within a year"
+      ],
+      "angle": "The most credible person alive to ask what Mayo actually looks for in an administrative trainee, because she was one. Write before the programme opens in October, not after.",
+      "flags": [
+        "Two conflicting email patterns are reported for mayo.edu. Use LinkedIn or the alumni directory."
+      ]
+    },
+    {
+      "n": 36,
+      "name": "Brian Bartlett, MD, MBA, MPH",
+      "co": "Mayo Clinic Health System",
+      "tier": "Opening soon",
+      "deadline": "Oct–Dec",
+      "title": "Chair, Hospital Operations Team; Vice Chief Medical Officer, Hospital Operations (Minnesota); Emergency Medicine Physician",
+      "school": "Carey Business School",
+      "li": "https://www.linkedin.com/in/brian-bartlett-md-mba-mph-66710a9b/",
+      "email": "last.first@mayo.edu (~66%); some sources say first.last",
+      "strength": "Strong",
+      "verified": "Verified — Mayo Clinic Health System provider page, Doximity, LinkedIn public preview",
+      "summary": "An emergency medicine physician who built an administrative career on top of clinical practice. MD from Creighton in 2007, emergency medicine residency at Mayo. Completed a Johns Hopkins MBA between 2019 and 2023 — by his own description a 54-credit MBA focused on healthcare information, technology and innovation, investments and data analytics — and an MPH at Harvard Chan. Now chairs the Hospital Operations Team and serves as Vice CMO for hospital operations in Minnesota, working across rural and community hospitals. Publicly involved in dedicating a new hospital in La Crosse and a $215M, 96-bed hospital and the Mankato bed tower expansion. Actively promotes the Mayo Clinic Administrative Fellowship Program on his feed. Publishes on inpatient bed management in rural community hospitals and ICU adaptation during COVID.",
+      "commons": [
+        "Emergency medicine plus hospital operations — you were emergency department coordinator and rapid response coordinator before moving into management",
+        "A physician doing an MBA and an MPH essentially at the same time, mid-career, exactly as you are",
+        "A Johns Hopkins MBA with an analytics and health-technology emphasis, alongside your Epi-Biostat concentration",
+        "Rural and community hospital operations; your clinic serves a rural Ethiopian catchment and your argument is about institutions that can sustain themselves outside major centres",
+        "Capacity and bed management under constraint, which is the formal version of the resource problem you solved at Ginnir",
+        "He actively signal-boosts the Mayo administrative training programme you are targeting"
+      ],
+      "angle": "Arguably the single best-matched person on the entire list. Every element of your background has a counterpart in his. Open with the emergency-medicine-to-operations move and the dual-degree overlap, then ask what the Administrative Internship selects for.",
+      "flags": [
+        "His LinkedIn appears under two slightly different URLs. The one in the spreadsheet resolves."
+      ]
+    },
+    {
+      "n": 37,
+      "name": "Gregory Geba, MD, MPH, DrPH",
+      "co": "Regeneron",
+      "tier": "Opening soon",
+      "deadline": "Oct 2 – Dec 2",
+      "title": "Senior Vice President, Global Development Scientific Council",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/gregory-geba-md-mph-drph-6495817/",
+      "email": "first.last@regeneron.com (~91%)",
+      "strength": "Strong",
+      "verified": "Verified — theorg.com biography, Crunchbase, ResearchGate",
+      "summary": "A physician-scientist with decades of clinical trial design and analysis experience. BA in Biology from Brown, MD from the University of Navarra in Spain, immunology and pulmonary critical care fellowship at Yale followed by an assistant professorship there, MPH in Epidemiology from Johns Hopkins, and a PhD in Molecular Toxicology from Columbia. Industry career through Merck, Novartis, AstraZeneca and Sanofi before joining Regeneron in 2013. Now leads the council that gives senior scientific input across Regeneron's therapeutic portfolio.",
+      "commons": [
+        "An internationally trained physician who built a US career on top of a foreign medical degree — you trained at Jimma, he trained at Navarra",
+        "MPH in Epidemiology from Johns Hopkins, matching your Epi-Biostat concentration directly",
+        "Clinical practice converted into industry leadership through graduate public health training",
+        "Stacked degrees across clinical, epidemiological and quantitative disciplines, like your MD plus MPH plus MBA"
+      ],
+      "angle": "The foreign-medical-degree-to-US-industry path is rare and worth asking about explicitly. That is a question only someone who has done it can answer, and it makes your note memorable rather than generic.",
+      "flags": [
+        "Two LinkedIn profiles surface under his name; the spreadsheet's URL is the one carrying the full credentials."
+      ]
+    },
+    {
+      "n": 38,
+      "name": "Frank Cottingham",
+      "co": "Regeneron",
+      "tier": "Opening soon",
+      "deadline": "Oct 2 – Dec 2",
+      "title": "Vice President, Intellectual Property",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/frank-cottingham-70757511/",
+      "email": "first.last@regeneron.com (~91%)",
+      "strength": "Weak",
+      "verified": "Not independently researched — spreadsheet data only",
+      "summary": "Vice President for Intellectual Property at Regeneron. No further public profile was pulled, because IP is a legal function with no bearing on the MBA internship tracks.",
+      "commons": [
+        "Hopkins affiliation, school unspecified",
+        "Nothing substantive"
+      ],
+      "angle": "Skip in favour of the spreadsheet's own alternative: Kevin Kozikowski, Head of GMA Business Operations, who sits on the MBA-relevant side.",
+      "flags": [
+        "Not verified. Function mismatch."
+      ]
+    },
+    {
+      "n": 39,
+      "name": "Alok Sathaye",
+      "co": "BCG",
+      "tier": "Opening soon",
+      "deadline": "Oct–Nov",
+      "title": "Managing Director & Senior Partner, Health Care practice (Brooklyn)",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/alok-sathaye-1a52763/",
+      "email": "last.first@bcg.com (~62%) or first.last@",
+      "strength": "Strong",
+      "verified": "Verified — BCG expert page, Startup Leadership Program bio, ContactOut career history",
+      "summary": "Two Johns Hopkins degrees: a BS in Biomedical Engineering and an MSE in cardiac tissue engineering. MBA from Harvard Business School. Began as a research scientist in Boston Scientific's Cardiac Rhythm Management division, then healthcare management consulting at Health Advances, then oncology strategic marketing at Genentech, then BCG in 2010 where he rose from consultant to Managing Director and Senior Partner. A core member of BCG's Health Care practice, member of the Health Care Scientist Network, and global topic leader in orthopaedic devices. Holds more than ten patents.",
+      "commons": [
+        "Two Johns Hopkins degrees, the strongest institutional overlap of anyone at MBB on this list",
+        "A technical and scientific foundation converted into healthcare consulting via an MBA — the structure of your own pitch",
+        "BCG's Health Care practice, which is the practice you would be applying into",
+        "He was recently elected into the senior partner cohort of the healthcare practice, so he is visible and active in it"
+      ],
+      "angle": "Write before the BCG window opens in October, since BCG has closed as early as that month. Lead with the Hopkins engineering-to-healthcare-consulting path, and ask how the practice evaluates clinicians rather than engineers.",
+      "flags": [
+        "His work is medtech and devices rather than health systems or payers. Do not assume he cares about financing models; ask, do not assert."
+      ]
+    },
+    {
+      "n": 40,
+      "name": "Raamin Mostaghimi",
+      "co": "BCG",
+      "tier": "Opening soon",
+      "deadline": "Oct–Nov",
+      "title": "Managing Director & Partner (Washington, DC)",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/raaminmostaghimi/",
+      "email": "last.first@bcg.com (~62%) or first.last@",
+      "strength": "Moderate",
+      "verified": "Verified — BCG practice page, theorg.com, public records aggregators",
+      "summary": "Johns Hopkins BA in Economics and International Relations (2006–09) with a further Hopkins credential in 2010, then an MBA from Harvard Business School. At BCG since 2010, now Managing Director and Partner in Washington DC. His practice work is retail and grocery, with published pieces on consumer pricing. Earlier a research assistant at IMPAQ International and an Amazon Pathways operations intern. Co-author of a series of humorous children's books about professional careers, including one on consulting. Speaks Persian; earlier interests in international development and policy analysis.",
+      "commons": [
+        "Johns Hopkins undergraduate degree, in economics — the discipline underneath your health economics interest",
+        "Washington DC base, where you targeted McKinsey's Healthcare and Life Sciences practice",
+        "An international-development and policy-analysis background earlier in his career",
+        "Harvard MBA layered on a social-science foundation"
+      ],
+      "angle": "Right firm, right city, wrong practice. Useful as a Hopkins-to-BCG voice on recruiting and on what DC office life is like, not as a healthcare sponsor. Sathaye is the healthcare route.",
+      "flags": [
+        "Retail and grocery practice, not healthcare. Do not open by assuming health content."
+      ]
+    },
+    {
+      "n": 41,
+      "name": "Mikey Vu",
+      "co": "Bain & Company",
+      "tier": "Opening soon",
+      "deadline": "~Nov",
+      "title": "Senior Partner; leads Bain's Retail AI practice in the Americas (Austin)",
+      "school": "Johns Hopkins University",
+      "li": "https://www.linkedin.com/in/mikeyvu/",
+      "email": "first.last@bain.com (~97%)",
+      "strength": "Moderate",
+      "verified": "Verified — Bain team page, RocketReach career history, his own public X bio",
+      "summary": "BS in Biomedical Engineering from Johns Hopkins, MBA from Michigan Ross. Consultant at Accenture from 2004, joined Bain in 2009, now a Senior Partner leading the Retail AI practice in the Americas and a member of the Retail, Digital and Technology practices. Widely quoted in national press on grocery and retail economics. His own public bio says he leads undergraduate recruiting.",
+      "commons": [
+        "Johns Hopkins Biomedical Engineering, same degree as Sathaye at BCG",
+        "A technical degree converted into consulting through an MBA",
+        "He is personally involved in Bain recruiting, which makes a recruiting question a legitimate rather than an intrusive one"
+      ],
+      "angle": "His practice is retail, so do not pitch health. Pitch the recruiting question directly: how Bain reads a Hopkins dual-degree candidate with an unusual operating background. Bain also maintains a dedicated Johns Hopkins campus recruiting team worth asking him to point you to.",
+      "flags": [
+        "Retail, not healthcare. The spreadsheet already noted this."
+      ]
+    },
+    {
+      "n": 42,
+      "name": "James 'Jimmy' Allen",
+      "co": "Bain & Company",
+      "tier": "Opening soon",
+      "deadline": "~Nov",
+      "title": "Advisory Partner (London); leads Bain's Global CEO Forum; co-author of The Founder's Mentality",
+      "school": "Johns Hopkins University (SAIS)",
+      "li": "https://www.linkedin.com/in/jamesallen-/",
+      "email": "first.last@bain.com (~97%)",
+      "strength": "Strong",
+      "verified": "Verified — Bain team page, Conference Board bio, publisher author bios, Bain podcast page",
+      "summary": "Kenyon College, then the Johns Hopkins School of Advanced International Studies, then Harvard Business School as a Baker Scholar. More than 35 years at Bain: founded the firm's Sales and Marketing practice, formerly led the global Strategy practice, served two terms on Bain's board. Co-author of Profit from the Core and The Founder's Mentality, and founder of the Founder's Mentality 100, a network of high-growth founder-led companies. Leads Bain's Global CEO Forum, a network of over 3,000 leaders. Sits on the Botswana Economic Advisory Council and has worked extensively with the World Bank, IFC and EBRD in developing markets. Outside Bain he runs a record label and co-founded Singing Wells, a project preserving Kenyan village music.",
+      "commons": [
+        "Johns Hopkins SAIS",
+        "His entire body of work is about founder-led companies that scale without losing what made them work — and you are a founder who took a clinic from one site and six staff to two sites and seventeen",
+        "Development-economics work in Africa through the World Bank, IFC and EBRD, and a standing advisory role to an African government",
+        "Emerging-market growth and entry strategy, which is the commercial vocabulary for what you did in Bale Robe",
+        "He has worked across healthcare among many other industries, so the sector is not foreign to him"
+      ],
+      "angle": "The most interesting note you could write to anyone on this list, and the least transactional. He is London-based and not part of US MBA recruiting, so do not ask for a job. Ask him one sharp question about whether founder's-mentality logic survives in a health system that cannot rely on donors. If he answers, you have a relationship worth more than an interview slot.",
+      "flags": [
+        "Advisory Partner in London — not a route into US summer associate recruiting. Treat as relationship-building, not pipeline."
+      ]
+    }
+  ]
+}

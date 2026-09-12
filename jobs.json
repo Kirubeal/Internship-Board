@@ -1,0 +1,1184 @@
+{
+  "meta": {
+    "tiers": {
+      "1": {
+        "name": "Best fits",
+        "note": "Graduate-level roles in health systems administration, health strategy, health economics, payer work or life-sciences consulting. These are worth a tailored application and a networking push."
+      },
+      "2": {
+        "name": "Worth a look",
+        "note": "Right sector or right brand but a different function, or a work-authorization question to settle with the recruiter before you invest the time."
+      },
+      "3": {
+        "name": "Long shots",
+        "note": "Kept for completeness: undergraduate pay bands, unpaid part-time roles, and fields outside health systems."
+      },
+      "0": {
+        "name": "New \u2014 needs review",
+        "note": "Pulled automatically from Handshake alert emails. Not yet tiered, visa-checked, or given a \"why it fits\" note \u2014 review and promote into a tier above, or delete."
+      }
+    },
+    "authLabels": {
+      "cpt": "CPT",
+      "opt": "OPT",
+      "none": "NO AUTH NEEDED",
+      "spon": "SPONSORSHIP",
+      "unstated": "NOT STATED",
+      "nospon": "NO SPONSORSHIP"
+    },
+    "authClass": {
+      "cpt": "cpt",
+      "opt": "",
+      "none": "none",
+      "spon": "spon",
+      "unstated": "unstated",
+      "nospon": "nospon"
+    },
+    "lastUpdated": "2026-09-12",
+    "inboxCount": 21
+  },
+  "jobs": [
+    {
+      "t": 0,
+      "id": 754184,
+      "src": "Handshake",
+      "e": "McKinsey & Company",
+      "r": "Analyst LatAm",
+      "pay": "\u2014",
+      "loc": "Buenos Aires, Argentina +8 (Onsite)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-22). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=McKinsey%20%26%20Company%20Analyst%20LatAm%20handshake",
+      "seenDate": "2026-07-22"
+    },
+    {
+      "t": 0,
+      "id": 709900,
+      "src": "Handshake",
+      "e": "HomeWorks Trenton",
+      "r": "Residential Life Assistant",
+      "pay": "$30\u201340K/yr",
+      "loc": "Trenton, NJ (Onsite)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-22). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=HomeWorks%20Trenton%20Residential%20Life%20Assistant%20handshake",
+      "seenDate": "2026-07-22"
+    },
+    {
+      "t": 0,
+      "id": 494416,
+      "src": "Handshake",
+      "e": "Howard Hughes Medical Institute",
+      "r": "SAIS Resume Book: HHMI Presidential Fellows Program - PAID",
+      "pay": "$50\u2013100K/yr",
+      "loc": "Chevy Chase, MD (Onsite)",
+      "term": "Fellowship",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-30). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=Howard%20Hughes%20Medical%20Institute%20SAIS%20Resume%20Book%3A%20HHMI%20Presidential%20Fellows%20Program%20-%20PAID%20handshake",
+      "seenDate": "2026-07-30"
+    },
+    {
+      "t": 0,
+      "id": 313092,
+      "src": "Handshake",
+      "e": "DocMatter",
+      "r": "Clinical Engagement Specialist",
+      "pay": "$65\u201395K/yr",
+      "loc": "Remote",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-30). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=DocMatter%20Clinical%20Engagement%20Specialist%20handshake",
+      "seenDate": "2026-07-30"
+    },
+    {
+      "t": 0,
+      "id": 264651,
+      "src": "Handshake",
+      "e": "California Department of Public Health",
+      "r": "Communication and Education Specialist",
+      "pay": "$6,623\u20138,290/mo",
+      "loc": "Richmond, CA (Hybrid)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-30). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=California%20Department%20of%20Public%20Health%20Communication%20and%20Education%20Specialist%20handshake",
+      "seenDate": "2026-07-30"
+    },
+    {
+      "t": 0,
+      "id": 332064,
+      "src": "Handshake",
+      "e": "California Department of Public Health",
+      "r": "Deputy Director, Center for Healthy Communities",
+      "pay": "$13.5\u201315.3K/mo",
+      "loc": "Richmond, CA (Hybrid)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-23). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=California%20Department%20of%20Public%20Health%20Deputy%20Director%2C%20Center%20for%20Healthy%20Communities%20handshake",
+      "seenDate": "2026-07-23"
+    },
+    {
+      "t": 0,
+      "id": 167292,
+      "src": "Handshake",
+      "e": "Boston University",
+      "r": "Research Project Manager Geriatrics",
+      "pay": "$61.2\u201393.4K/yr",
+      "loc": "Boston, MA (Onsite)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-30). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=Boston%20University%20Research%20Project%20Manager%20Geriatrics%20handshake",
+      "seenDate": "2026-07-30"
+    },
+    {
+      "t": 0,
+      "id": 504574,
+      "src": "Handshake",
+      "e": "U.S. Department of Health and Human Services",
+      "r": "Supervisory Public Health Advisor",
+      "pay": "$169.3\u2013197.2K/yr",
+      "loc": "Rockville, MD (Onsite)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-27). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=U.S.%20Department%20of%20Health%20and%20Human%20Services%20Supervisory%20Public%20Health%20Advisor%20handshake",
+      "seenDate": "2026-07-27"
+    },
+    {
+      "t": 0,
+      "id": 957458,
+      "src": "Handshake",
+      "e": "U.S. Department of Health and Human Services",
+      "r": "Deputy Division Director",
+      "pay": "$169.3\u2013197.2K/yr",
+      "loc": "Rockville, MD (Onsite)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-27). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=U.S.%20Department%20of%20Health%20and%20Human%20Services%20Deputy%20Division%20Director%20handshake",
+      "seenDate": "2026-07-27"
+    },
+    {
+      "t": 0,
+      "id": 283976,
+      "src": "Handshake",
+      "e": "Milken Institute",
+      "r": "Senior Associate, Global Programming",
+      "pay": "$70\u201385K/yr",
+      "loc": "Washington, DC (Hybrid)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-27). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=Milken%20Institute%20Senior%20Associate%2C%20Global%20Programming%20handshake",
+      "seenDate": "2026-07-27"
+    },
+    {
+      "t": 0,
+      "id": 479833,
+      "src": "Handshake",
+      "e": "U.S. Department of Health and Human Services",
+      "r": "Physician (Chief Physician)",
+      "pay": "$169.3\u2013197.2K/yr",
+      "loc": "Rockville, MD (Onsite)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-27). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=U.S.%20Department%20of%20Health%20and%20Human%20Services%20Physician%20%28Chief%20Physician%29%20handshake",
+      "seenDate": "2026-07-27"
+    },
+    {
+      "t": 0,
+      "id": 172526,
+      "src": "Handshake",
+      "e": "Boston University",
+      "r": "MANAGER, SCHOOL HEALTH INSTITUTE PROGRAM, Communication Health Sciences- Admin",
+      "pay": "$100.3\u2013140.4K/yr",
+      "loc": "Boston, MA (Onsite)",
+      "term": "Part-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-27). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=Boston%20University%20MANAGER%2C%20SCHOOL%20HEALTH%20INSTITUTE%20PROGRAM%2C%20Communication%20Health%20Sciences-%20Admin%20handshake",
+      "seenDate": "2026-07-27"
+    },
+    {
+      "t": 0,
+      "id": 114660,
+      "src": "Handshake",
+      "e": "McKinsey & Company Germany",
+      "r": "Junior Fellow (m/w/d)",
+      "pay": "\u2014",
+      "loc": "Vienna, Austria +7 (Hybrid)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-23). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=McKinsey%20%26%20Company%20Germany%20Junior%20Fellow%20%28m/w/d%29%20handshake",
+      "seenDate": "2026-07-23"
+    },
+    {
+      "t": 0,
+      "id": 862372,
+      "src": "Handshake",
+      "e": "McKinsey & Company Germany",
+      "r": "Associate (m/w/d)",
+      "pay": "\u2014",
+      "loc": "Vienna, Austria +7 (Hybrid)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-23). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=McKinsey%20%26%20Company%20Germany%20Associate%20%28m/w/d%29%20handshake",
+      "seenDate": "2026-07-23"
+    },
+    {
+      "t": 0,
+      "id": 733611,
+      "src": "Handshake",
+      "e": "Veevo Health",
+      "r": "Founding Intern, Health Content Writer",
+      "pay": "\u2014",
+      "loc": "Remote",
+      "term": "Internship",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-23). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=Veevo%20Health%20Founding%20Intern%2C%20Health%20Content%20Writer%20handshake",
+      "seenDate": "2026-07-23"
+    },
+    {
+      "t": 0,
+      "id": 788107,
+      "src": "Handshake",
+      "e": "Boston University",
+      "r": "Postdoctoral Associate, Community Health Sciences, School of Public Health",
+      "pay": "$67\u201370K/yr",
+      "loc": "Boston, MA (Onsite)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-23). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=Boston%20University%20Postdoctoral%20Associate%2C%20Community%20Health%20Sciences%2C%20School%20of%20Public%20Health%20handshake",
+      "seenDate": "2026-07-23"
+    },
+    {
+      "t": 0,
+      "id": 263345,
+      "src": "Handshake",
+      "e": "Maryland State Government",
+      "r": "Management Associate",
+      "pay": "$55.7\u201387.9K/yr",
+      "loc": "Baltimore, MD (Onsite)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-16). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=Maryland%20State%20Government%20Management%20Associate%20handshake",
+      "seenDate": "2026-07-16"
+    },
+    {
+      "t": 0,
+      "id": 735379,
+      "src": "Handshake",
+      "e": "Patient-Centered Outcomes Research Institute",
+      "r": "Graduate Student Fall Internship",
+      "pay": "$20.5/hr",
+      "loc": "Washington, DC (Remote)",
+      "term": "Internship",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-16). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=Patient-Centered%20Outcomes%20Research%20Institute%20Graduate%20Student%20Fall%20Internship%20handshake",
+      "seenDate": "2026-07-16"
+    },
+    {
+      "t": 0,
+      "id": 110719,
+      "src": "Handshake",
+      "e": "Boston University",
+      "r": "Research Fellow, Center for Climate and Health, Boston University School of Public Health",
+      "pay": "$58\u201366K/yr",
+      "loc": "Boston, MA (Onsite)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-16). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=Boston%20University%20Research%20Fellow%2C%20Center%20for%20Climate%20and%20Health%2C%20Boston%20University%20School%20of%20Public%20Health%20handshake",
+      "seenDate": "2026-07-16"
+    },
+    {
+      "t": 0,
+      "id": 525978,
+      "src": "Handshake",
+      "e": "McKinsey & Company Germany",
+      "r": "Fellow (m/w/d)",
+      "pay": "\u2014",
+      "loc": "Vienna, Austria +7 (Hybrid)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-16). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=McKinsey%20%26%20Company%20Germany%20Fellow%20%28m/w/d%29%20handshake",
+      "seenDate": "2026-07-16"
+    },
+    {
+      "t": 0,
+      "id": 802934,
+      "src": "Handshake",
+      "e": "Center for Science in the Public Interest",
+      "r": "Senior Policy Associate",
+      "pay": "$60\u201375K/yr",
+      "loc": "Washington, DC (Hybrid)",
+      "term": "Full-Time",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Surfaced by a Handshake alert email (2026-07-16). Not yet reviewed for fit, real deadline, or visa terms.",
+      "flag": null,
+      "url": "https://www.google.com/search?q=Center%20for%20Science%20in%20the%20Public%20Interest%20Senior%20Policy%20Associate%20handshake",
+      "seenDate": "2026-07-16"
+    },
+    {
+      "t": 1,
+      "id": 11330343,
+      "src": "Handshake",
+      "e": "St. Jude Children's Research Hospital",
+      "r": "Healthcare Administration Graduate Student Program Intern",
+      "pay": "$2,946/mo + housing",
+      "loc": "Memphis, TN",
+      "term": "May 17 \u2013 Aug 6",
+      "due": "2026-09-20T00:59",
+      "auth": [
+        "spon"
+      ],
+      "why": "<b>Provider-side health systems administration</b>, built for graduate students. Operations and delivery at a large academic pediatric hospital.",
+      "flag": "Handshake says apply by Sept 20; St. Jude's own page lists Oct 19. Treat Sept 20 as the real date. Tagged sponsorship-eligible only, so ask whether CPT counts."
+    },
+    {
+      "t": 1,
+      "id": 11333890,
+      "src": "Handshake",
+      "e": "The Carter Center",
+      "r": "Spring 2027 Carter Center Internships",
+      "pay": "$5,100/yr",
+      "loc": "Atlanta, GA",
+      "term": "Jan 11 \u2013 Apr 22",
+      "due": "2026-09-20T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "<b>Global health programs</b> with direct Ethiopia and Horn-of-Africa portfolios \u2014 trachoma, guinea worm, health system strengthening.",
+      "flag": "Spring 2027, not summer \u2014 this would run during your MBA term."
+    },
+    {
+      "t": 1,
+      "id": 11345705,
+      "src": "Handshake",
+      "e": "Milliman",
+      "r": "Actuarial Intern",
+      "pay": "$23\u201346/hr",
+      "loc": "Chicago, IL",
+      "term": "May 10 \u2013 Aug 20",
+      "due": "2026-09-25T00:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "<b>Payer-side health economics.</b> Milliman's health practice does the risk pricing and cost modeling that sits underneath health financing design."
+    },
+    {
+      "t": 1,
+      "id": 11382928,
+      "src": "Handshake",
+      "e": "Charles River Associates",
+      "r": "Accounting / Business / Finance Consulting Analyst-Associate Intern (Summer 2027)",
+      "pay": "$30\u201337.50/hr",
+      "loc": "New York City, NY +4",
+      "term": "Jun 6 \u2013 Aug 15",
+      "due": "2026-10-03T18:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "CRA hires master's students into associate-track intern roles. Economic consulting brand that reads well for later healthcare or strategy recruiting."
+    },
+    {
+      "t": 1,
+      "id": 11384093,
+      "src": "Handshake",
+      "e": "Legend Biotech USA",
+      "r": "Legend Biotech 2027 Summer Internship Program",
+      "pay": "$25\u201330/hr",
+      "loc": "Philadelphia, PA +3",
+      "term": "Jun 6 \u2013 Aug 12",
+      "due": "2026-10-03T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Cell-therapy company with commercial, market-access and medical-affairs tracks \u2014 a clinician-MBA is an unusual and useful profile there."
+    },
+    {
+      "t": 1,
+      "id": 11382486,
+      "src": "Handshake",
+      "e": "Charles River Associates",
+      "r": "Economics Consulting Analyst-Associate Intern (Summer 2027)",
+      "pay": "$30\u201337.50/hr",
+      "loc": "Washington, DC +5",
+      "term": "Jun 6 \u2013 Aug 15",
+      "due": "2026-10-03T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "<b>The best CRA fit for you.</b> Applied economics practice with a substantial life sciences and healthcare antitrust caseload."
+    },
+    {
+      "t": 1,
+      "id": 11383409,
+      "src": "Handshake",
+      "e": "Charles River Associates",
+      "r": "Management Advisory Analyst-Associate Intern (Summer 2027)",
+      "pay": "$30\u201337.50/hr",
+      "loc": "New York City, NY +1",
+      "term": "Jun 6 \u2013 Aug 15",
+      "due": "2026-10-03T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "General strategy and transformation work \u2014 the closest CRA practice to a classic MBA consulting internship."
+    },
+    {
+      "t": 1,
+      "id": 11387744,
+      "src": "Handshake",
+      "e": "Amgen",
+      "r": "MBA Intern \u2014 Commercial Leadership Program",
+      "pay": "$41.83/hr",
+      "loc": "Remote or Thousand Oaks, CA",
+      "term": "May 10 \u2013 Aug 13",
+      "due": "2026-10-23T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "<b>Highest-paying MBA role on the board</b>, and Handshake already flags you as a profile match. Amgen's own posting only asks for authorization for the length of the program, and it reviews applications as they come in, so apply well before Oct 23."
+    },
+    {
+      "t": 1,
+      "id": 11387721,
+      "src": "Handshake",
+      "e": "Amgen",
+      "r": "MBA Intern \u2014 Finance",
+      "pay": "$41.83/hr",
+      "loc": "Remote or Thousand Oaks, CA",
+      "term": "May 10 \u2013 Aug 13",
+      "due": "2026-10-23T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Amgen's site calls it the Finance &amp; Strategy Leadership Development Program. Same terms as the commercial role; apply to both rather than choosing one."
+    },
+    {
+      "t": 1,
+      "id": "cc-gaip",
+      "src": "Career site",
+      "url": "https://my.clevelandclinic.org/departments/education/health-management-education/graduate-administrative-internship",
+      "e": "Cleveland Clinic",
+      "r": "Graduate Administrative Internship Program",
+      "pay": "Hourly, rate not published",
+      "loc": "Cleveland, OH",
+      "term": "10\u201312 weeks, summer 2027",
+      "due": "2026-10-25T23:59",
+      "auth": [
+        "cpt"
+      ],
+      "why": "<b>Health-system administration built for MBA and MPH students</b> between first and second year. Cleveland Clinic doesn't sponsor visas, but says a current student visa is enough for the internship. Interviews in November, offers by early December."
+    },
+    {
+      "t": 1,
+      "id": "mgh-admin",
+      "src": "Career site",
+      "url": "https://research.massgeneralbrigham.org/en/education-and-training/graduate-medical-education/medicine/mgh-administrative-internship",
+      "e": "Massachusetts General Hospital",
+      "r": "MGH Administrative Internship",
+      "pay": "Pay not published",
+      "loc": "Boston, MA",
+      "term": "Full-time, summer 2027",
+      "due": "2026-11-09T23:59",
+      "est": true,
+      "dueNote": "~Nov 9",
+      "auth": [
+        "cpt"
+      ],
+      "why": "<b>Academic medicine administration</b> for MHA, MPH and MBA students. The page tells F-1 students to bring their CPT documents to onboarding.",
+      "flag": "Summer 2027 deadline isn't posted yet. The date shown is last cycle's."
+    },
+    {
+      "t": 1,
+      "id": "jhhs-carey",
+      "src": "Carey",
+      "url": "https://carey.jhu.edu/programs/mba-programs/full-time-mba/johns-hopkins-health-business-internship",
+      "e": "Johns Hopkins Health System \u00d7 Carey",
+      "r": "MBA Summer Internship Program",
+      "pay": "Paid",
+      "loc": "Baltimore, MD",
+      "term": "8\u201310 weeks",
+      "due": "2027-03-15T23:59",
+      "est": true,
+      "dueNote": "March 2027",
+      "auth": [
+        "unstated"
+      ],
+      "why": "<b>Your top-ranked target.</b> Open to full-time Carey MBAs, dual-degree students included: hospital operations projects, an executive mentor, and a two-day operations bootcamp.",
+      "flag": "Info session in February; the posting goes up on Handshake. The page doesn't mention work authorization, so confirm CPT with Carey career services."
+    },
+    {
+      "t": 1,
+      "id": "eversana-mc",
+      "src": "Handshake",
+      "url": "https://jobs.smartrecruiters.com/EVERSANA1/744000146017939-intern-eversana-management-consulting-june-2027-start-10-week-program-",
+      "e": "EVERSANA Management Consulting",
+      "r": "Intern, EVERSANA Management Consulting (June 2027 start)",
+      "pay": "Up to $30/hr",
+      "loc": "Boston, MA",
+      "term": "10 weeks from June 2027",
+      "due": null,
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "<b>Life-sciences commercialization consulting</b> \u2014 pricing, market access, launch \u2014 and the posting asks specifically for MBA or PhD students. No deadline listed."
+    },
+    {
+      "t": 2,
+      "id": 11346140,
+      "src": "Handshake",
+      "e": "Oak Ridge Institute for Science and Education",
+      "r": "WRAIR \u2014 Structural Vaccinology Research Opportunity",
+      "pay": "$50\u2013100K/yr",
+      "loc": "Silver Spring, MD",
+      "term": "\u2014",
+      "due": "2026-09-24T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Strong stipend and a Walter Reed affiliation, but this is bench structural biology \u2014 a long way from health financing."
+    },
+    {
+      "t": 2,
+      "id": 11382435,
+      "src": "Handshake",
+      "e": "National Security Agency (NSA)",
+      "r": "Stokes Educational Scholarship \u2014 Language",
+      "pay": "$30\u201340K/yr",
+      "loc": "Remote or Fort Meade, MD",
+      "term": "May 31 \u2013 Jul 30",
+      "due": "2026-09-30T23:59",
+      "auth": [
+        "opt"
+      ],
+      "why": "Listed here only because it carries an OPT tag.",
+      "flag": "OPT-tagged but not CPT, and NSA programs are normally US-citizens-only. Verify before spending time on it."
+    },
+    {
+      "t": 2,
+      "id": 11383890,
+      "src": "Handshake",
+      "e": "Charles River Associates",
+      "r": "Cyber and Forensic Technology Consulting Analyst-Associate Intern (Summer 2027)",
+      "pay": "$30\u201337.50/hr",
+      "loc": "Washington, DC +3",
+      "term": "Jun 6 \u2013 Aug 15",
+      "due": "2026-10-03T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Right firm, wrong practice \u2014 digital forensics and incident response rather than economics or strategy."
+    },
+    {
+      "t": 2,
+      "id": 11314500,
+      "src": "Handshake",
+      "e": "enFocus",
+      "r": "enFocus Summer Internship",
+      "pay": "$14\u201316/hr",
+      "loc": "Elkhart, IN +1",
+      "term": "Jun 6 \u2013 Jul 29",
+      "due": "2026-10-16T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Community-innovation fellowship doing real operational consulting for regional hospitals and civic bodies. Interesting work, low pay, small market."
+    },
+    {
+      "t": 2,
+      "id": 11387701,
+      "src": "Handshake",
+      "e": "Amgen",
+      "r": "Operations Graduate Program",
+      "pay": "$35.34\u201341.83/hr",
+      "loc": "Holly Springs, NC +4",
+      "term": "May 10 \u2013 Aug 13",
+      "due": "2026-10-23T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Graduate-level and well paid, but manufacturing and supply-chain operations rather than commercial or health economics."
+    },
+    {
+      "t": 2,
+      "id": 11387548,
+      "src": "Handshake",
+      "e": "Amgen",
+      "r": "Grad Intern \u2014 Process Development",
+      "pay": "$35.34\u201341.20/hr",
+      "loc": "Thousand Oaks, CA",
+      "term": "May 10 \u2013 Aug 13",
+      "due": "2026-10-23T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Graduate-level pay band, but a laboratory process-engineering role."
+    },
+    {
+      "t": 2,
+      "id": 11388098,
+      "src": "Handshake",
+      "e": "TikTok Inc.",
+      "r": "Category Manager Intern (TikTok Shop \u2014 Operations, Health & Elevated Home) \u2014 2027 Summer (MBA)",
+      "pay": "$40/hr",
+      "loc": "New York, NY (onsite)",
+      "term": "May 17 \u2013 Aug 6",
+      "due": "2026-12-04T00:00",
+      "auth": [
+        "none"
+      ],
+      "why": "<b>MBA-only, well paid, and no work authorization required</b> in TikTok's Handshake settings. Handshake also flags you as a profile match. The catch: this is e-commerce category management (bringing merchants onto TikTok Shop and growing sales in its health and home category), not health systems or health economics.",
+      "flag": "Applications are reviewed as they come in, and TikTok lets you apply to at most two roles across the company and its affiliates worldwide, so choose both deliberately. \u201cApply by Dec 4, 12:00 AM\u201d means the end of Dec 3."
+    },
+    {
+      "t": 2,
+      "id": 11387688,
+      "src": "Handshake",
+      "e": "McKesson",
+      "r": "Digital Marketing Intern \u2014 Summer 2027",
+      "pay": "$17.33\u201328.88/hr",
+      "loc": "The Woodlands, TX",
+      "term": "\u2014",
+      "due": "2026-12-31T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Healthcare distribution giant and the latest deadline on the board, so it costs nothing to keep open \u2014 but marketing, not strategy."
+    },
+    {
+      "t": 2,
+      "id": "abbvie-clpt",
+      "src": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/4458975501/",
+      "e": "AbbVie",
+      "r": "2027 Commercial Leader Program Intern \u2014 Therapeutics (MBA)",
+      "pay": "Pay not listed",
+      "loc": "North Chicago, IL \u00b7 remote options",
+      "term": "Summer 2027",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Brand-team work with a pipeline into AbbVie's post-MBA commercial program. Needs 3+ years of experience, which you have. Big name, but mostly marketing rather than health economics.",
+      "flag": "The posting doesn't mention work authorization, so ask before you put time into it."
+    },
+    {
+      "t": 2,
+      "id": "mck-hso",
+      "src": "Career site",
+      "url": "https://careers.mckesson.com/en/job/texas/health-systems-optimization-intern-summer-2027/733/100099799664",
+      "e": "McKesson",
+      "r": "Health Systems Optimization Intern \u2014 Summer 2027",
+      "pay": "$17.33\u201328.88/hr",
+      "loc": "Remote (Texas)",
+      "term": "Summer 2027",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "GPO contract performance and rebate strategy for member health systems \u2014 the economics of provider purchasing, close to your financing work. MBA students preferred, but paid at the undergraduate band.",
+      "flag": "No work-authorization language on the posting. Confirm CPT."
+    },
+    {
+      "t": 2,
+      "id": "mck-innov",
+      "src": "Career site",
+      "url": "https://careers.mckesson.com/en/job/irving/innovation-strategy-intern-summer-2027/733/100099788896",
+      "e": "McKesson",
+      "r": "Innovation Strategy Intern \u2014 Summer 2027",
+      "pay": "$17.33\u201328.88/hr",
+      "loc": "Irving, TX",
+      "term": "Summer 2027",
+      "due": null,
+      "auth": [
+        "unstated"
+      ],
+      "why": "Requires a graduate degree in progress, and names public health and business administration. Strategy function, low pay band.",
+      "flag": "No work-authorization language on the posting. Confirm CPT."
+    },
+    {
+      "t": 2,
+      "id": "merck-gma",
+      "src": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/4464432874/",
+      "e": "Merck",
+      "r": "2027 Future Talent Program \u2014 Global Market Access: Strategy & Operations Intern",
+      "pay": "$39.9K\u2013111.1K/yr posted range",
+      "loc": "",
+      "term": "Summer 2027",
+      "due": null,
+      "auth": [
+        "nospon"
+      ],
+      "why": "<b>Market access strategy</b>, open to master's students in public health or business \u2014 an MPH-shaped role at a top-five pharma.",
+      "flag": "Merck lists \u201cVISA Sponsorship: No.\u201d Ask whether CPT students can still be hired before applying."
+    },
+    {
+      "t": 3,
+      "id": 11297780,
+      "src": "Handshake",
+      "e": "EndsideOut",
+      "r": "Public Health Intern",
+      "pay": "Unpaid",
+      "loc": "Remote",
+      "term": "Part-time, 10 hrs/wk",
+      "due": "2026-09-11T23:59",
+      "auth": [
+        "none"
+      ],
+      "why": "No work authorization required at all, but unpaid and part-time \u2014 a volunteer line, not an internship."
+    },
+    {
+      "t": 3,
+      "id": 11297826,
+      "src": "Handshake",
+      "e": "EndsideOut",
+      "r": "Marketing Intern",
+      "pay": "Unpaid",
+      "loc": "Remote",
+      "term": "Part-time",
+      "due": "2026-09-11T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Unpaid marketing support for a Baltimore health-education nonprofit."
+    },
+    {
+      "t": 3,
+      "id": 11205078,
+      "src": "Handshake",
+      "e": "Natural Born Champions Inc.",
+      "r": "NBC Intern",
+      "pay": "Unpaid",
+      "loc": "Baltimore, MD +1",
+      "term": "Sep 1 \u2013 Jun 10",
+      "due": "2026-09-12T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Unpaid youth-sports nonprofit role running across the academic year."
+    },
+    {
+      "t": 3,
+      "id": 11309107,
+      "src": "Handshake",
+      "e": "The New England Center for Children",
+      "r": "Postgraduation Intern \u2014 New College Graduates",
+      "pay": "$48K/yr",
+      "loc": "Southborough, MA",
+      "term": "Full year",
+      "due": "2026-09-13T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "A full-year post-bacc position in autism services \u2014 not a summer internship and not on your track."
+    },
+    {
+      "t": 3,
+      "id": 11219113,
+      "src": "Handshake",
+      "e": "Breakthrough Collaborative",
+      "r": "Breakthrough Teaching Fellow",
+      "pay": "$1,500\u20136K/yr",
+      "loc": "Philadelphia, PA +21",
+      "term": "May 21 \u2013 Aug 21",
+      "due": "2026-09-17T02:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Summer teaching fellowship for undergraduates considering education careers."
+    },
+    {
+      "t": 3,
+      "id": 10324315,
+      "src": "Handshake",
+      "e": "Tolka AI Therapeutics",
+      "r": "Research Associate Intern",
+      "pay": "$17\u201320/hr",
+      "loc": "Miami, FL",
+      "term": "\u2014",
+      "due": "2026-09-18T06:00",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Early-stage biotech bench role, posted eleven months ago \u2014 likely stale."
+    },
+    {
+      "t": 3,
+      "id": 11336111,
+      "src": "Handshake",
+      "e": "University of Pittsburgh Medical Center (UPMC)",
+      "r": "Student Nurse Internship",
+      "pay": "$15\u201320/hr",
+      "loc": "Harrisburg, PA +14",
+      "term": "May 16 \u2013 Jul 22",
+      "due": "2026-09-20T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Restricted to enrolled nursing students."
+    },
+    {
+      "t": 3,
+      "id": 11338138,
+      "src": "Handshake",
+      "e": "EndsideOut",
+      "r": "UI/UX Design Intern",
+      "pay": "Unpaid",
+      "loc": "Remote",
+      "term": "Part-time",
+      "due": "2026-09-22T23:59",
+      "auth": [
+        "none"
+      ],
+      "why": "No work authorization required, but unpaid design work outside your field."
+    },
+    {
+      "t": 3,
+      "id": 11241415,
+      "src": "Handshake",
+      "e": "ESURGI",
+      "r": "Entrepreneurship Intern",
+      "pay": "Unpaid",
+      "loc": "Remote",
+      "term": "Aug 16 \u2013 Feb 16",
+      "due": "2026-09-27T02:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Unpaid. ESURGI is a small DC bio-health startup posting seven separate unpaid roles into these collections."
+    },
+    {
+      "t": 3,
+      "id": 11089814,
+      "src": "Handshake",
+      "e": "ESURGI",
+      "r": "Talent Acquisition Intern",
+      "pay": "Unpaid",
+      "loc": "Remote",
+      "term": "May 31 \u2013 Nov 30",
+      "due": "2026-09-29T00:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Unpaid recruiting support."
+    },
+    {
+      "t": 3,
+      "id": 11370097,
+      "src": "Handshake",
+      "e": "Turner Construction Company",
+      "r": "Summer 2027 Finance Intern \u2014 Columbus",
+      "pay": "Paid",
+      "loc": "Columbus, OH",
+      "term": "Summer 2027",
+      "due": "2026-10-01T23:59",
+      "auth": [
+        "cpt",
+        "opt",
+        "spon"
+      ],
+      "why": "One of only four postings here open to full visa sponsorship \u2014 but commercial construction finance."
+    },
+    {
+      "t": 3,
+      "id": 11370021,
+      "src": "Handshake",
+      "e": "Turner Construction Company",
+      "r": "Summer 2027 Safety Intern \u2014 Columbus",
+      "pay": "Paid",
+      "loc": "Columbus, OH",
+      "term": "May 16 \u2013 Aug 8",
+      "due": "2026-10-01T23:59",
+      "auth": [
+        "cpt",
+        "opt",
+        "spon"
+      ],
+      "why": "Sponsorship-open, but construction site safety."
+    },
+    {
+      "t": 3,
+      "id": 11370148,
+      "src": "Handshake",
+      "e": "Turner Construction Company",
+      "r": "Summer 2027 Construction Intern \u2014 Columbus",
+      "pay": "Paid",
+      "loc": "Columbus, OH",
+      "term": "May 16 \u2013 Aug 5",
+      "due": "2026-10-01T23:59",
+      "auth": [
+        "cpt",
+        "opt",
+        "spon"
+      ],
+      "why": "Sponsorship-open, but field construction management."
+    },
+    {
+      "t": 3,
+      "id": 11168093,
+      "src": "Handshake",
+      "e": "ESURGI",
+      "r": "Grant Writer Intern",
+      "pay": "Unpaid",
+      "loc": "Remote",
+      "term": "Sep 20 \u2013 Mar 21",
+      "due": "2026-10-02T02:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Unpaid, but SBIR grant writing is genuinely adjacent to your work as a principal investigator."
+    },
+    {
+      "t": 3,
+      "id": 11215747,
+      "src": "Handshake",
+      "e": "ESURGI",
+      "r": "Grant Writer (PhD Student)",
+      "pay": "Unpaid",
+      "loc": "Remote",
+      "term": "Part-time, 10 hrs/wk",
+      "due": "2026-10-04T02:59",
+      "auth": [
+        "none"
+      ],
+      "why": "No work authorization required and doctorate-level \u2014 your MD qualifies. Still unpaid and part-time."
+    },
+    {
+      "t": 3,
+      "id": 10855706,
+      "src": "Handshake",
+      "e": "ESURGI",
+      "r": "Project Manager",
+      "pay": "Unpaid",
+      "loc": "Remote",
+      "term": "\u2014",
+      "due": "2026-10-14T00:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Unpaid. Posted five months ago."
+    },
+    {
+      "t": 3,
+      "id": 11210661,
+      "src": "Handshake",
+      "e": "ESURGI",
+      "r": "Hardware Engineering Intern",
+      "pay": "Unpaid",
+      "loc": "Baltimore, MD",
+      "term": "Jul 14 \u2013 Feb 14",
+      "due": "2026-10-14T00:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Unpaid hardware engineering."
+    },
+    {
+      "t": 3,
+      "id": 11387619,
+      "src": "Handshake",
+      "e": "Amgen",
+      "r": "Undergrad Intern \u2014 Finance",
+      "pay": "$28.87/hr",
+      "loc": "Remote or Thousand Oaks, CA",
+      "term": "May 10 \u2013 Aug 13",
+      "due": "2026-10-23T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Undergraduate band \u2014 apply to the MBA Finance role instead."
+    },
+    {
+      "t": 3,
+      "id": 11387532,
+      "src": "Handshake",
+      "e": "Amgen",
+      "r": "Undergrad Intern \u2014 Process Development",
+      "pay": "$28.85/hr",
+      "loc": "Thousand Oaks, CA",
+      "term": "May 10 \u2013 Aug 13",
+      "due": "2026-10-23T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Undergraduate laboratory role."
+    },
+    {
+      "t": 3,
+      "id": 11387506,
+      "src": "Handshake",
+      "e": "Amgen",
+      "r": "Undergrad Intern \u2014 Operations, Cambridge MA",
+      "pay": "$28.87/hr",
+      "loc": "Cambridge, MA",
+      "term": "May 10 \u2013 Aug 13",
+      "due": "2026-10-23T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Undergraduate operations role."
+    },
+    {
+      "t": 3,
+      "id": 11387488,
+      "src": "Handshake",
+      "e": "Amgen",
+      "r": "Undergrad Intern \u2014 Operations, West Greenwich RI",
+      "pay": "$28.84/hr",
+      "loc": "West Greenwich, RI",
+      "term": "May 10 \u2013 Aug 13",
+      "due": "2026-10-23T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Undergraduate operations role."
+    },
+    {
+      "t": 3,
+      "id": 11387453,
+      "src": "Handshake",
+      "e": "Amgen",
+      "r": "Undergrad Intern \u2014 Operations, Holly Springs NC",
+      "pay": "$28.87/hr",
+      "loc": "Holly Springs, NC",
+      "term": "May 10 \u2013 Aug 13",
+      "due": "2026-10-23T23:59",
+      "auth": [
+        "cpt",
+        "opt"
+      ],
+      "why": "Undergraduate operations role."
+    }
+  ]
+}
